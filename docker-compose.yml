@@ -1,0 +1,42 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: copiloto
+      POSTGRES_PASSWORD: copiloto
+      POSTGRES_DB: copiloto
+    ports:
+      - "5433:5432"   # 5433 no seu PC para não conflitar com o Postgres já instalado
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U copiloto -d copiloto -h 127.0.0.1"]
+      interval: 3s
+      retries: 20
+
+  api:
+    build: ./backend
+    restart: on-failure
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DATABASE_URL: postgresql://copiloto:copiloto@db:5432/copiloto
+      MARKET_CSV: /data/restaurantes_caruaru_fev2021.csv
+    volumes:
+      - ./data:/data:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - api
+
+volumes:
+  pgdata:

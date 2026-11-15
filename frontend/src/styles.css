@@ -1,0 +1,55 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif; background: #f6f6f7; color: #222; }
+.app { min-height: 100vh; display: flex; flex-direction: column; }
+header { display: flex; justify-content: space-between; align-items: center; padding: 14px 24px; background: #fff; border-bottom: 1px solid #eee; gap: 16px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.logo { width: 38px; height: 38px; border-radius: 10px; background: #ea1d2c; color: #fff; display: grid; place-items: center; font-weight: 800; font-size: 20px; }
+h1 { margin: 0; font-size: 18px; }
+.sub { font-size: 12px; color: #777; }
+.right { display: flex; align-items: center; gap: 10px; }
+select { padding: 8px 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 14px; background: #fff; }
+.badge { font-size: 12px; padding: 4px 10px; border-radius: 999px; }
+.badge.on { background: #e8f6ee; color: #1a7f45; }
+.badge.off { background: #fff4e0; color: #9a6200; }
+.error { margin: 16px 24px 0; padding: 12px; background: #fde8ea; color: #a0101c; border-radius: 8px; }
+main { flex: 1; display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(340px, 1fr); gap: 20px; padding: 20px 24px; }
+@media (max-width: 960px) { main { grid-template-columns: 1fr; } }
+.panel { display: flex; flex-direction: column; gap: 16px; }
+.loading { padding: 40px; text-align: center; color: #888; }
+.kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+@media (max-width: 700px) { .kpis { grid-template-columns: repeat(2, 1fr); } }
+.kpi, .card { background: #fff; border-radius: 12px; padding: 14px 16px; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
+.kpi { display: flex; flex-direction: column; gap: 4px; }
+.kpi span { font-size: 12px; color: #777; }
+.kpi strong { font-size: 22px; }
+.kpi small, h3 small, .row small { color: #999; font-weight: 400; font-size: 12px; }
+.pos { color: #1a7f45; font-size: 13px; font-weight: 600; }
+.neg { color: #d4111f; font-size: 13px; font-weight: 600; }
+h3 { margin: 0 0 10px; font-size: 14px; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 700px) { .grid2 { grid-template-columns: 1fr; } }
+.bar { display: grid; grid-template-columns: 90px 1fr 28px; align-items: center; gap: 8px; font-size: 13px; margin: 6px 0; text-transform: capitalize; }
+.bar div { background: #f1f1f1; border-radius: 4px; height: 8px; }
+.bar i { display: block; height: 8px; border-radius: 4px; background: #ea1d2c; }
+.bar b { text-align: right; }
+.row { display: flex; justify-content: space-between; font-size: 13px; padding: 6px 0; border-bottom: 1px solid #f3f3f3; }
+.row:last-child { border-bottom: 0; }
+.chat { background: #fff; border-radius: 12px; display: flex; flex-direction: column; height: calc(100vh - 130px); min-height: 480px; position: sticky; top: 20px; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
+.chat-head { padding: 14px 16px; border-bottom: 1px solid #f0f0f0; font-weight: 600; font-size: 14px; }
+.msgs { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.empty p { color: #666; font-size: 14px; margin-top: 0; }
+.sug { display: block; width: 100%; text-align: left; margin: 6px 0; padding: 10px 12px; border: 1px solid #eee; border-radius: 10px; background: #fafafa; cursor: pointer; font-size: 13px; }
+.sug:hover { border-color: #ea1d2c; background: #fff5f5; }
+.msg { max-width: 92%; padding: 10px 14px; border-radius: 12px; font-size: 14px; line-height: 1.45; }
+.msg p { margin: 0 0 6px; }
+.msg p:last-child { margin-bottom: 0; }
+.msg ul { margin: 4px 0 6px; padding-left: 18px; }
+.msg.user { align-self: flex-end; background: #ea1d2c; color: #fff; }
+.msg.model { align-self: flex-start; background: #f4f4f5; }
+.typing { color: #888; font-style: italic; }
+.tools { margin-top: 8px; font-size: 11px; color: #888; }
+form { display: flex; gap: 8px; padding: 12px; border-top: 1px solid #f0f0f0; }
+form input { flex: 1; padding: 10px 12px; border: 1px solid #ddd; border-radius: 10px; font-size: 14px; }
+form button { padding: 10px 16px; border: 0; border-radius: 10px; background: #ea1d2c; color: #fff; font-weight: 600; cursor: pointer; }
+form button:disabled { opacity: .5; cursor: default; }
+footer { text-align: center; font-size: 12px; color: #999; padding: 10px; }

@@ -1,0 +1,1016 @@
+name,category,delivery_fee,delivery_time,distance,minimumOrderValue,price_range,rating
+Bala Burguer,Brasileira,4.0,30,3.23,15.0,CHEAP,0.0
+Pizzaria Styllo & Hamburgueria,Pizza,6.0,45,0.39,15.0,CHEAP,0.0
+Suculento's Dog,Lanches,0.0,30,1.49,20.0,CHEAPEST,0.0
+Artburguer Comedoria,Lanches,5.0,50,4.17,20.0,CHEAPEST,0.0
+Sem Culpa Alimentação Saudável,Saudável,5.0,50,2.32,0.0,CHEAPEST,0.0
+Quentinhas Express,Brasileira,6.0,45,2.59,0.0,CHEAPEST,0.0
+Glaucia Refeições e Conveniência,Conveniência,3.0,55,2.89,0.0,CHEAPEST,0.0
+Graça Bolos e Salgados,Brasileira,4.99,15,0.75,20.0,CHEAPEST,0.0
+Super File,Pizza,5.0,45,0.45,0.0,CHEAP,0.0
+Primos Comedoria,Brasileira,0.0,25,3.79,0.0,CHEAP,0.0
+Mano Pizza Delivery,Pizza,0.0,45,1.02,15.0,CHEAPEST,0.0
+Sr Cutelo Steak House,Carnes,5.0,30,0.86,0.0,CHEAPEST,0.0
+O Chalé do Bode,Brasileira,6.0,40,1.18,0.0,CHEAP,0.0
+A Casa,Pizza,6.0,30,1.6,0.0,CHEAPEST,0.0
+Donna Rodrigues,Lanches,7.0,50,2.42,0.0,CHEAPEST,0.0
+Pepperoni Pizzaria,Pizza,0.0,30,0.85,0.0,CHEAPEST,0.0
+Manah Comedoria,Carnes,5.0,50,2.26,13.0,CHEAPEST,0.0
+O Rei da Massa,Pastel,5.49,42,2.67,20.0,CHEAP,0.0
+Desfrutti Delivery,Açaí,4.0,35,0.92,0.0,CHEAPEST,0.0
+Capitão Burger,Hambúrguer,0.0,60,1.39,11.99,CHEAPEST,0.0
+TOPADOS LANCHES.,Salgados,3.0,50,1.26,15.0,CHEAPEST,0.0
+Doce Forma,Doces & Bolos,6.0,45,1.49,20.0,CHEAPEST,0.0
+Donnas Coxinhas,Lanches,0.0,60,0.84,10.0,CHEAPEST,0.0
+Via Pátio,Brasileira,4.0,50,0.51,20.0,CHEAPEST,0.0
+Açai Queridim,Açaí,0.0,40,1.12,20.0,CHEAPEST,0.0
+DELÍCIAS DA FLÁVIA ,Doces & Bolos,6.0,60,0.73,10.0,CHEAPEST,0.0
+Caike Design,Padaria,4.0,50,3.78,0.0,CHEAPEST,0.0
+Hoshi,Japonesa,0.0,30,1.8,30.0,MODERATE,0.0
+Chandller's Mega Lanches,Lanches,0.0,30,0.61,0.0,CHEAPEST,0.0
+Encantos Nordestinos,Brasileira,0.0,90,2.66,13.0,CHEAPEST,0.0
+Mr. Pizza,Pizza,0.0,30,0.87,15.0,MODERATE,0.0
+Carne de Sol da Tiana,Brasileira,6.0,50,2.15,0.0,CHEAP,0.0
+Casa do Doce,Lanches,6.0,40,1.15,15.0,CHEAPEST,0.0
+Batata Hot Speed,Brasileira,0.0,40,1.4,17.0,CHEAPEST,0.0
+Pizza na Fulô,Pizza,0.0,50,2.74,20.0,CHEAP,0.0
+Tererê Pizza,Pizza,0.0,60,4.35,28.0,CHEAPEST,0.0
+Vitalino Burger,Lanches,4.9,40,0.62,0.0,CHEAPEST,0.0
+Dflash,Lanches,6.0,45,0.72,0.0,CHEAPEST,0.0
+J&m Diversidade Culinárias,Açaí,6.0,35,1.31,0.0,CHEAPEST,0.0
+Estação Pizza,Pizza,5.0,80,2.02,35.0,MODERATE,0.0
+Motta Comedoria,Brasileira,0.0,40,0.25,16.0,CHEAPEST,0.0
+Soraya Degust,Salgados,0.0,45,0.79,0.0,CHEAPEST,0.0
+Eliane da Silva Cunha Restaurante,Bebidas,0.0,25,1.0,15.0,CHEAPEST,0.0
+Império Gelado,Açaí,0.0,50,1.91,18.0,CHEAPEST,0.0
+Aki Lanches,Lanches,5.0,45,1.76,5.0,CHEAP,0.0
+Belle Acai,Açaí,6.0,40,0.56,0.0,CHEAPEST,0.0
+Temakeria Zaru,Japonesa,5.0,45,1.53,10.0,MODERATE,0.0
+O Sertanejo Restaurante e Pizzaria,Pizza,0.0,60,1.71,12.0,CHEAPEST,0.0
+Panquecas da Vovó,Brasileira,0.0,60,1.94,0.0,CHEAPEST,0.0
+Qtal Comida Saudavel,Saudável,5.0,35,3.95,5.0,CHEAPEST,0.0
+Sabor Online,Brasileira,0.0,50,2.94,20.0,CHEAPEST,0.0
+Restaurante Dito e Feito,Brasileira,6.49,27,2.79,20.0,CHEAPEST,0.0
+Sabor Caseiro,Brasileira,0.0,55,1.81,20.0,CHEAPEST,0.0
+La Parrilla,Brasileira,7.49,23,1.86,20.0,MOST_EXPENSIVE,0.0
+Restaurante e Bar do Padrinho,Brasileira,6.99,50,3.75,20.0,CHEAPEST,0.0
+Top Grego Churrasco Grego,Lanches,0.0,60,1.69,10.0,CHEAPEST,0.0
+Mais Açaí,Açaí,5.0,50,1.14,0.0,CHEAPEST,0.0
+Fatia Certa Pizzaria,Pizza,0.0,40,1.25,20.0,CHEAPEST,0.0
+Cosmopolitan Caruaru,Lanches,6.0,80,2.2,29.0,CHEAPEST,0.0
+Tempeiro de Casa,Brasileira,0.0,40,3.89,20.0,CHEAPEST,0.0
+Bar do Arrumadão e Restaurante,Brasileira,5.99,35,2.48,20.0,MODERATE,0.0
+Burger House,Lanches,3.0,45,0.72,13.0,CHEAP,0.0
+Acai Club,Açaí,3.99,13,0.69,10.0,CHEAPEST,0.0
+Henrique Cervejeiro Delivery de Bebidas,Bebidas,3.0,25,1.76,12.0,CHEAP,0.0
+Bruna Lang Cakes,Doces & Bolos,0.0,50,1.75,15.0,CHEAPEST,0.0
+Tentações Açaí,Açaí,10.0,90,9.72,12.0,CHEAPEST,0.0
+Sd Gelato Express,Brasileira,6.0,35,1.42,15.0,CHEAPEST,0.0
+Tempero Especial,Brasileira,0.0,50,2.2,9.9,CHEAPEST,0.0
+Açaiteria Chandller´s,Açaí,0.0,40,1.06,0.0,CHEAPEST,0.0
+Mana de Deus Express,Brasileira,3.0,60,2.66,0.0,CHEAPEST,0.0
+Açaí Que Delícia,Açaí,6.99,45,3.33,10.0,CHEAPEST,0.0
+Acai Arretado de Bom,Açaí,0.0,50,2.21,15.5,CHEAPEST,0.0
+Acai Express,Açaí,0.0,60,3.79,0.0,CHEAPEST,0.0
+Tio Clecio Comedoria,Brasileira,3.0,45,1.54,8.0,CHEAPEST,0.0
+Galeteria Bom Tempero,Hambúrguer,8.99,13,4.15,20.0,CHEAPEST,0.0
+Chaves Burguer ,Hambúrguer,0.0,40,2.11,0.0,CHEAPEST,0.0
+Tapiocaria Gourmet,Saudável,5.99,25,2.54,10.0,CHEAPEST,0.0
+Restaurante Natal,Brasileira,4.99,23,0.07,20.0,CHEAPEST,0.0
+Pizzaria o Rei do Baião,Brasileira,6.0,60,0.38,10.0,CHEAP,0.0
+Galeteria e Lanchonete Chapéu de Couro,Brasileira,8.0,50,2.53,10.0,CHEAPEST,0.0
+Nordestino's Burguer,Lanches,5.99,45,2.77,20.0,CHEAPEST,0.0
+Cantinho Doce da Gaby,Doces & Bolos,0.0,40,1.02,25.0,CHEAPEST,0.0
+Mandacarú Restaurante 7,Brasileira,3.99,18,0.46,20.0,CHEAPEST,0.0
+Rabada do Bigode,Brasileira,4.49,20,1.94,10.0,CHEAPEST,0.0
+Hamburgueria Rodrigues,Lanches,0.0,40,1.43,15.0,CHEAPEST,0.0
+Matuto's Açaí,Açaí,0.0,50,2.09,12.0,CHEAPEST,0.0
+Fast Burguer,Lanches,0.0,40,1.7,10.0,CHEAPEST,0.0
+Restaurante Patricios,Brasileira,6.99,45,3.33,20.0,CHEAPEST,0.0
+Bem Burger,Lanches,7.0,40,2.34,10.0,CHEAP,0.0
+Oxente.foods,Brasileira,2.0,30,0.96,0.0,CHEAPEST,0.0
+Janta Caseira,Sopas & Caldos,6.0,45,4.09,12.0,CHEAPEST,0.0
+Stop Burguer,Lanches,0.0,40,1.12,15.0,CHEAPEST,0.0
+Brasa's Burguer,Hambúrguer,0.0,59,2.14,10.0,CHEAPEST,0.0
+Alquimia da Fazenda,Nordestina,4.99,30,1.23,20.0,CHEAPEST,0.0
+Duckbill - Cookies & Coffee Caruaru,Cafeteria,4.49,21,1.29,10.0,MODERATE,0.0
+O Rei da Batata Original,Lanches,4.0,75,2.14,10.0,CHEAPEST,0.0
+Paty Cake Confeitaria,Doces & Bolos,5.99,40,1.65,5.0,CHEAPEST,0.0
+Midas Top Burguer,Lanches,3.0,40,2.07,6.9,CHEAPEST,0.0
+Oxe! Pastelburg,Lanches,0.0,60,1.19,15.0,CHEAPEST,0.0
+Hakuna Batata,Lanches,0.0,45,1.59,19.0,CHEAPEST,0.0
+Mamma Mia - Massas e Sabores,Brasileira,6.0,80,1.28,10.0,CHEAP,0.0
+Bárbaros Burguer,Brasileira,6.0,40,1.64,5.0,CHEAPEST,0.0
+Veganeria Baracho,Vegetariana,12.99,49,4.23,13.0,CHEAPEST,0.0
+Defumados do Rei,Lanches,5.0,50,1.89,20.0,CHEAPEST,0.0
+Vitalino Japanese,Japonesa,6.99,70,2.14,20.0,MODERATE,0.0
+Bleckaut Burguer,Lanches,6.0,50,0.31,13.0,CHEAPEST,0.0
+Renato Comedoria,Marmita,0.0,35,0.9,0.0,CHEAPEST,0.0
+Don Marconi Lanches e Petiscaria,Lanches,5.0,50,2.87,15.0,CHEAPEST,0.0
+Delicias do Nordeste,Hambúrguer,6.0,45,1.17,8.0,CHEAPEST,0.0
+Açai Vitality,Açaí,0.0,40,1.11,10.0,CHEAPEST,0.0
+Açaíburguer Caruaru,Açaí,6.0,50,0.88,10.0,CHEAPEST,0.0
+Espetinn Arretado,Brasileira,6.99,55,3.76,20.0,CHEAPEST,0.0
+Burguer Best,Lanches,6.99,50,3.69,20.0,CHEAPEST,0.0
+Eliza Lanches,Lanches,5.99,45,2.63,20.0,CHEAPEST,0.0
+Parada Obrigatória Tapiocaria,Brasileira,4.99,22,0.67,10.0,CHEAPEST,5.0
+Restaurante Nosso Sabor,Brasileira,4.99,32,1.73,20.0,CHEAPEST,0.0
+Acai Que Chama,Açaí,5.0,60,1.03,10.0,CHEAPEST,0.0
+Center Plaza Hotel e Restaurante,Brasileira,3.99,19,0.17,20.0,CHEAPEST,0.0
+Marta Refeicoes,Brasileira,5.0,50,2.19,0.0,CHEAPEST,0.0
+Nordestinas Bar e Restaurante,Lanches,5.0,50,2.17,0.0,CHEAPEST,0.0
+Pork Bbq Don Guloso,Carnes,5.0,35,0.06,0.0,MODERATE,0.0
+Domnartis Delivery,Brasileira,0.0,40,2.94,20.0,EXPENSIVE,0.0
+Nelgrano Congelados,Salgados,7.99,32,0.65,20.0,CHEAPEST,0.0
+Lanchonete Bom Sabor,Salgados,0.0,35,0.78,0.0,EXPENSIVE,0.0
+Soparia Nordestina,Brasileira,6.0,40,1.4,0.0,CHEAPEST,0.0
+Tapioca da Mandioca,Brasileira,5.0,45,1.13,10.0,CHEAPEST,0.0
+O Mega Dogao,Brasileira,5.0,50,2.76,0.0,CHEAPEST,0.0
+Naldinho Churrascaria,Brasileira,5.0,45,2.73,10.0,CHEAPEST,0.0
+Mestre Kuka,Brasileira,0.0,35,0.21,0.0,CHEAPEST,0.0
+Tô em Casa,Pizza,6.0,45,2.17,10.0,CHEAPEST,0.0
+Cachorro Quente do Negão Lugar de Comer,Lanches,5.99,46,2.58,20.0,CHEAPEST,0.0
+Bora Papá,Congelados,4.0,40,1.95,6.0,CHEAPEST,0.0
+Ponto do Chopp-,Brasileira,9.0,80,5.74,20.0,CHEAPEST,0.0
+Dona Antonieta,Brasileira,4.99,35,0.78,20.0,CHEAPEST,0.0
+Pizzaria la Delicia,Pizza,5.99,35,2.09,20.0,CHEAPEST,0.0
+Comedoria Premium,Brasileira,4.99,36,1.19,20.0,CHEAPEST,0.0
+Bar Nego do Caldinho,Marmita,5.99,40,2.03,10.0,CHEAPEST,0.0
+Helô Pastéis,Pastel,6.99,50,3.31,20.0,CHEAPEST,0.0
+Água de Coco Caruaru Restaurante,Brasileira,6.0,35,0.35,10.0,CHEAPEST,0.0
+Restaurante do Carlao,Brasileira,4.99,35,0.81,20.0,CHEAPEST,0.0
+Mercearia Blumenau,Doces & Bolos,0.0,40,1.65,0.0,CHEAPEST,0.0
+O Baibudo - Conveniência & Bebidas,Conveniência,5.99,40,2.18,10.0,MODERATE,0.0
+Porto Seguro Supermercado,Mercado,5.0,135,1.71,50.0,CHEAPEST,0.0
+Vr Refeições,Marmita,5.99,20,2.4,10.0,CHEAPEST,0.0
+Panificadora Vilela Delicatessen,Pizza,4.49,18,1.34,20.0,CHEAPEST,5.0
+Cactos Delivery,Lanches,3.0,35,1.56,11.9,CHEAPEST,0.0
+Batata Mania,Brasileira,5.99,45,2.82,20.0,CHEAPEST,0.0
+Amazonia Mix,Congelados,4.99,35,0.49,10.0,CHEAPEST,4.199999809265137
+Peixada Caruaruense,Peixes,7.0,50,3.0,20.0,CHEAPEST,0.0
+Elite Burguer,Brasileira,5.0,50,2.71,10.0,CHEAPEST,0.0
+The Kings Of Beer 99,Bebidas,0.0,35,0.89,20.0,CHEAPEST,0.0
+Hally  Sopas e Espetos,Brasileira,4.99,36,1.49,20.0,CHEAPEST,0.0
+Oxe Drink's,Bebidas,6.0,50,1.94,20.0,CHEAPEST,5.0
+Oxe Burguer,Lanches,4.99,18,1.18,12.0,CHEAPEST,4.25
+Delma's,Salgados,5.99,40,2.29,20.0,CHEAPEST,0.0
+Oxente Bar e Restaurante,Marmita,4.99,33,0.41,10.0,CHEAPEST,0.0
+Porcini Pizzaria,Pizza,6.0,40,0.86,0.0,CHEAPEST,5.0
+Lula’s Burguer - Praça Três Bandeias,Lanches,4.99,200,1.65,20.0,CHEAPEST,0.0
+Com Sustância Comedoria,Brasileira,5.0,60,2.98,15.0,CHEAPEST,4.199999809265137
+Doceria Raquel Morais,Doces & Bolos,5.99,25,2.09,10.0,CHEAPEST,0.0
+Feitoza Burguer,Hambúrguer,7.0,50,2.19,15.0,CHEAPEST,5.0
+Sr Espetinho,Carnes,0.0,35,0.61,6.0,CHEAPEST,3.75
+Açaí do Monstro,Açaí,4.99,22,1.74,10.0,CHEAPEST,4.7692298889160165
+Cozinha Gourmet,Brasileira,6.0,50,2.68,10.0,CHEAPEST,0.0
+Nordestinos,Brasileira,0.0,40,1.75,15.0,CHEAPEST,4.666669845581055
+Vovó Irene Comedoria,Brasileira,0.0,25,1.38,20.0,CHEAPEST,5.0
+Habib's Congelados - Caruaru,Mercado,6.5,48,0.83,0.0,CHEAPEST,1.0
+Acai no Copo Express (delivery),Açaí,4.99,15,0.68,10.0,CHEAPEST,3.666670083999634
+Crash Burguer,Lanches,4.99,40,1.6,10.0,CHEAPEST,4.647059917449951
+Rico Pizza e Pastel Caruaru,Pizza,3.0,50,2.39,25.0,CHEAPEST,5.0
+Churrascada Truck,Lanches,6.0,60,1.13,10.0,MODERATE,5.0
+João e Maria Hamburgueria Gourmet,Lanches,6.0,40,1.2,17.0,CHEAPEST,5.0
+Dudu Caseiro,Congelados,0.0,20,1.21,20.0,CHEAPEST,5.0
+Pão Gourmet Caruaru,Lanches,5.0,70,1.33,12.0,CHEAP,5.0
+Açaí no Grau,Açaí,6.0,70,0.95,10.0,CHEAPEST,5.0
+Master Esfirras,Árabe,0.0,30,0.21,9.0,CHEAPEST,5.0
+Quentinha do Mestre,Marmita,3.99,23,1.0,10.0,CHEAPEST,5.0
+O Apetitoso Restaurante,Brasileira,4.49,20,1.94,10.0,CHEAPEST,5.0
+Hora Extra Bebidas,Bebidas,6.49,25,2.25,10.0,EXPENSIVE,5.0
+Bacalhau do Portuga,Portuguesa,8.49,23,2.32,20.0,CHEAP,5.0
+Fullano Comedoria,Brasileira,7.0,45,1.61,10.0,MODERATE,5.0
+Tsuki Delivery,Japonesa,6.0,60,6.01,14.0,CHEAPEST,5.0
+Açai Planet,Açaí,5.99,23,2.1,10.0,CHEAPEST,5.0
+Nordestinus Açaiteria,Açaí,3.99,19,0.52,10.0,CHEAPEST,5.0
+Fabrica de Brownie,Doces & Bolos,5.0,60,3.74,0.0,CHEAPEST,5.0
+Brownies da Rafa,Doces & Bolos,9.99,42,2.88,10.0,CHEAPEST,5.0
+Pizzaria Talmidim,Pizza,5.0,50,1.05,20.0,MODERATE,4.548389911651611
+Açaí Point Delivery Caruaru,Açaí,1.99,30,0.68,10.0,CHEAPEST,4.5370402336120605
+S.o.s Quentinhas,Brasileira,0.0,60,1.31,14.0,CHEAPEST,4.5370402336120605
+Pizzaria Bom Sabor,Pizza,0.0,40,1.86,19.0,CHEAP,4.529409885406494
+Celtaçai,Açaí,5.5,35,1.55,0.0,CHEAPEST,4.529409885406494
+Pizzaria Emannuel,Pizza,7.99,40,2.69,29.99,CHEAP,4.521979808807373
+Restaurante a Fazendinha,Brasileira,0.0,50,2.13,20.0,CHEAP,4.521530151367188
+Dom Calixtto,Pizza,0.0,55,1.21,22.0,MODERATE,4.517240047454834
+Lauro Burguer,Lanches,9.0,45,0.57,0.0,MODERATE,4.51515007019043
+Point do Arrumadinho,Brasileira,7.0,40,2.43,15.0,CHEAPEST,4.5139899253845215
+Donatello Pizzaria,Pizza,0.0,50,1.14,20.0,CHEAP,4.512199878692627
+Pizzaria Nassau Delivery,Pizza,6.0,62,1.07,20.0,MODERATE,4.5
+Temaki House,Japonesa,0.0,50,0.68,25.0,MODERATE,4.5
+Natureba Gastronomia Saudável,Saudável,6.0,60,1.62,10.0,CHEAPEST,4.5
+Irmãos Marmitas,Marmita,0.0,50,2.94,13.0,CHEAPEST,4.489359855651856
+O Kilo Pizzaria,Pizza,0.0,55,2.81,20.0,CHEAP,4.488369941711426
+Família Barreto,Brasileira,4.99,38,1.7,20.0,CHEAPEST,0.0
+Caburg Hamburgueria,Hambúrguer,6.99,45,3.25,20.0,CHEAPEST,0.0
+Restaurante e Lanchonete do Paulista,Brasileira,4.99,26,0.43,20.0,CHEAPEST,0.0
+Sophia Pizzaria,Pizza,5.0,40,1.09,0.0,CHEAPEST,0.0
+Manu Sweet Gourmet,Doces & Bolos,5.99,25,2.28,10.0,CHEAPEST,0.0
+Dudu Premium,Sorvetes,0.0,35,0.81,0.0,CHEAPEST,0.0
+Quero Crepe!,Saudável,11.99,49,5.9,10.0,CHEAP,0.0
+Sabor Fit Refeições Congeladas,Brasileira,5.99,22,2.33,20.0,CHEAPEST,0.0
+O Bem Gostoso,Lanches,4.99,38,1.63,20.0,CHEAPEST,0.0
+Lanchonete Bom Sabor,Pastel,5.49,22,2.72,20.0,CHEAPEST,0.0
+Bonsai Sushi,Japonesa,5.0,45,2.49,10.0,CHEAPEST,0.0
+Panquecaria Gourmet,Lanches,6.0,45,2.59,0.0,CHEAPEST,0.0
+Delicias da Tia,Brasileira,4.99,36,1.12,20.0,CHEAPEST,0.0
+Panificadora Nossa Senhora de Fátima,Padaria,6.0,45,1.11,0.0,CHEAPEST,0.0
+Barraca do Bigode,Brasileira,5.99,40,2.01,20.0,CHEAPEST,0.0
+Grills Burger,Hambúrguer,6.0,60,1.6,4.0,CHEAPEST,0.0
+Potiguar Frios,Padaria,0.0,40,1.47,30.0,CHEAPEST,0.0
+Aline Personal Chef,Brasileira,5.99,38,2.58,20.0,CHEAPEST,0.0
+Carvo Steakhouse,Carnes,6.0,40,1.8,20.0,CHEAPEST,2.6666700839996342
+Panini Pizzaria,Pizza,6.0,40,0.95,5.0,CHEAPEST,0.0
+Soparia do Gordo,Brasileira,4.99,35,0.76,20.0,CHEAPEST,0.0
+Tio Clecio Comedoria,Brasileira,4.99,32,1.54,20.0,CHEAPEST,0.0
+One Burger,Lanches,4.99,33,1.5,20.0,CHEAPEST,0.0
+Restaurante Cheiro e Sabor,Brasileira,5.99,40,2.48,20.0,CHEAPEST,0.0
+Espetinho da Nalva,Carnes,4.99,27,0.44,20.0,CHEAPEST,0.0
+Altas Horas Burguer,Lanches,5.0,35,2.26,10.0,CHEAPEST,0.0
+Açaí Sport Club,Açaí,4.99,36,1.11,10.0,CHEAPEST,0.0
+Restaurante Kicomida,Brasileira,5.99,41,2.57,20.0,CHEAPEST,0.0
+Boteco Esquina Papo Legal,Brasileira,4.99,38,1.9,20.0,CHEAPEST,0.0
+Lê Pizzaria e Pastelaria,Pizza,0.0,50,2.83,10.0,CHEAPEST,0.0
+Gold Burg,Lanches,5.0,40,2.05,10.0,CHEAPEST,0.0
+Restaurante Cozinheira do Mestre,Brasileira,4.99,31,0.96,20.0,CHEAPEST,0.0
+Elaeny Melo Cakes,Doces & Bolos,5.0,40,1.75,20.0,CHEAPEST,0.0
+Quentinha da Lala,Brasileira,5.99,34,2.46,20.0,CHEAPEST,0.0
+Café Aroma,Cafeteria,6.0,45,1.81,0.0,CHEAPEST,0.0
+Coxinhas Company,Lanches,4.99,16,1.12,20.0,CHEAPEST,0.0
+Chef Adalberto Açaiteria (centro),Lanches,4.99,15,0.51,20.0,CHEAPEST,0.0
+Marmitária a Dona,Brasileira,4.0,50,1.98,12.0,CHEAPEST,0.0
+Dannny Bolos e Tortas,Doces & Bolos,4.99,18,1.9,10.0,CHEAPEST,0.0
+Pizzaria do Rey,Pizza,6.99,50,3.81,20.0,CHEAPEST,0.0
+Restaurante e Soparia da Sol,Brasileira,8.99,29,4.44,20.0,CHEAPEST,0.0
+Sabor Caseiro,Brasileira,0.0,45,1.02,15.0,CHEAPEST,0.0
+Kero Açaí,Açaí,0.0,60,1.08,10.0,CHEAPEST,0.0
+Connect Delivery,Lanches,6.99,50,3.27,20.0,CHEAPEST,0.0
+Ateliê dos Sonhos,Lanches,0.0,40,0.61,0.0,CHEAPEST,0.0
+La Burger,Lanches,4.49,24,1.0,20.0,CHEAPEST,0.0
+Red Angus Bbq,Lanches,4.99,38,1.92,20.0,CHEAPEST,0.0
+Cintra Petiscaria,Brasileira,7.0,70,4.77,18.0,CHEAPEST,0.0
+Point do Cuscuz,Brasileira,5.0,50,2.65,15.0,CHEAPEST,0.0
+Crepe Suíço & Wisdom Lima,Francesa,4.5,35,3.43,10.0,CHEAPEST,0.0
+Açaí Bora Bora,Açaí,6.99,50,3.29,10.0,CHEAPEST,0.0
+Top Life Açaiteria e Hamburgueria,Açaí,5.0,60,3.78,15.0,CHEAPEST,4.75
+Frenesi Saladas,Saudável,7.0,60,2.17,12.0,CHEAPEST,0.0
+Comedoria Meneze’s,Lanches,6.0,40,1.28,20.0,CHEAPEST,4.0
+Kaah Burguer,Lanches,6.99,55,3.84,20.0,CHEAPEST,0.0
+House Burguer,Lanches,5.99,50,2.18,20.0,CHEAPEST,0.0
+Long Store,Bebidas,6.99,24,3.22,10.0,CHEAPEST,5.0
+Franguitos,Lanches,6.49,8,2.04,20.0,CHEAPEST,0.0
+Bom de Garfo,Marmita,0.0,50,1.99,12.0,CHEAPEST,0.0
+Galeteria Cocoricó,Brasileira,3.99,60,0.33,20.0,CHEAPEST,0.0
+Calibre Burguer,Lanches,7.0,65,4.91,11.9,CHEAPEST,4.8125
+La Pitaia,Marmita,4.99,60,1.39,7.99,CHEAPEST,5.0
+Burgueria Meu Paladar,Lanches,6.0,55,2.1,15.0,CHEAPEST,5.0
+Dragon Sushi,Japonesa,6.0,55,1.9,20.0,CHEAPEST,4.0
+Açaí do Douglas,Açaí,4.99,38,1.78,10.0,CHEAPEST,0.0
+Brabo Burguer Caruaru,Hambúrguer,6.99,27,3.02,20.0,CHEAPEST,0.0
+Telebeer Caruaru,Bebidas,4.99,23,1.67,10.0,CHEAPEST,0.0
+Sabor Nordestino,Brasileira,0.0,35,0.82,0.0,CHEAPEST,0.0
+Darkburguer 🖤,Lanches,4.99,35,0.84,20.0,CHEAPEST,0.0
+The Grooves Burguer,Lanches,6.0,40,1.7,0.0,CHEAPEST,0.0
+Seu Frango Assado,Carnes,6.0,35,0.96,27.0,CHEAPEST,0.0
+Dimensão Burguer,Lanches,0.0,35,2.27,12.0,CHEAPEST,4.699999809265137
+Pizzaria e Esfirraria Gospel,Pizza,6.0,55,2.23,20.0,CHEAPEST,0.0
+Don Pedro,Brasileira,5.0,40,1.96,15.0,CHEAPEST,0.0
+Doce Liz,Doces & Bolos,2.0,40,1.66,10.0,CHEAPEST,0.0
+Niwa Sushi,Japonesa,0.0,60,1.64,25.0,CHEAPEST,3.7727301120758057
+Hambúrgueria Rodrigues,Lanches,5.0,40,1.05,20.0,CHEAPEST,0.0
+Esfiha.com,Árabe,0.0,50,1.71,18.0,CHEAPEST,4.375
+Jr Restaurante,Brasileira,5.99,40,2.15,20.0,CHEAPEST,0.0
+Lápizza,Pizza,12.99,63,5.03,20.0,CHEAPEST,0.0
+Ki Burguer Hamburgueria Artesanal,Hambúrguer,5.0,45,2.11,18.0,CHEAPEST,5.0
+Harper Açaí,Açaí,2.0,45,1.65,17.0,CHEAPEST,5.0
+Sorvetes Caruá,Sorvetes,5.0,30,3.0,20.0,CHEAPEST,5.0
+Romeno Burger,Hambúrguer,6.0,40,1.51,15.0,CHEAPEST,5.0
+Açaiteria Mix. Av Caruaru,Açaí,0.0,50,2.11,10.0,CHEAPEST,5.0
+Dog Good,Lanches,0.0,50,2.03,10.0,CHEAPEST,5.0
+Coxinhas Crock,Lanches,4.49,20,1.39,10.0,CHEAPEST,5.0
+Manu Doces,Doces & Bolos,1.0,30,0.82,5.0,CHEAPEST,5.0
+Feijoada da Cris,Brasileira,6.0,60,1.02,0.0,CHEAPEST,5.0
+ Ki Delicia,Hambúrguer,6.0,50,1.11,20.0,CHEAPEST,5.0
+Hot Burguers,Lanches,4.99,17,0.9,20.0,CHEAPEST,5.0
+Baconfome Burger,Lanches,6.0,60,3.13,0.0,CHEAPEST,5.0
+"E Ai, Comeu!?",Brasileira,7.0,70,3.83,10.0,CHEAPEST,5.0
+Point Burguer,Lanches,0.0,45,1.41,15.0,CHEAPEST,4.939390182495117
+Tasty Premium Burg,Lanches,5.99,29,2.61,19.0,MODERATE,4.923079967498778
+Pizzaria Due Fratelli,Pizza,7.49,10,1.85,20.0,EXPENSIVE,4.912280082702637
+Varanda Chinesa,Chinesa,7.0,60,1.55,0.0,MODERATE,4.909090042114258
+Top Burger,Lanches,4.5,65,0.94,12.0,CHEAPEST,4.909090042114258
+Hamburgueria do Japa,Lanches,0.0,60,1.06,13.0,CHEAPEST,4.90369987487793
+Aparmegiana,Brasileira,0.0,60,1.24,15.0,CHEAPEST,4.487180233001709
+La Pasta Rica,Italiana,5.0,45,1.87,20.0,CHEAPEST,4.484379768371582
+Esfiha.com,Lanches,5.0,50,1.71,10.0,CHEAPEST,4.4798197746276855
+Hamburgueria Boca Louca,Lanches,0.0,30,0.23,15.0,CHEAPEST,4.471630096435547
+Restaurante e Pizzaria Tarantella,Pizza,6.0,50,1.45,20.0,CHEAP,4.454549789428711
+PARMÊ GOURMET ,Italiana,5.49,23,1.58,20.0,CHEAPEST,4.454549789428711
+El Shaday Delivery,Brasileira,0.0,60,1.21,14.0,CHEAPEST,4.446969985961914
+Muito Massa,Italiana,5.0,40,1.7,15.0,CHEAPEST,4.444439888000488
+O Barão Restaurante,Brasileira,5.0,55,1.01,15.0,CHEAPEST,4.4380202293396
+Big Pizza Pastelaria e Hamburgeria,Variada,5.0,40,1.95,15.0,CHEAP,4.4339599609375
+Bodega do Vitalino,Brasileira,5.0,45,1.14,0.0,CHEAPEST,4.428569793701172
+El Shaday Quentinha,Brasileira,0.0,60,0.92,14.0,CHEAPEST,4.418799877166748
+Chef Juan Acosta Delivery,Brasileira,0.0,40,2.21,18.0,CHEAP,4.416669845581055
+Meu Paladar,Brasileira,6.0,60,2.04,14.0,CHEAPEST,4.410709857940674
+Tips Burger,Lanches,0.0,35,1.02,15.0,CHEAPEST,4.4078898429870605
+Com Amor Refeições,Marmita,0.0,65,3.17,7.0,CHEAPEST,4.407410144805908
+Las Vegas Pizzaria,Pizza,0.0,40,0.84,25.0,CHEAPEST,4.405059814453125
+Pastelaria Barão Hotdog e Conveniencia,Lanches,4.99,40,1.37,20.0,CHEAPEST,4.400000095367432
+Topgrill,Lanches,6.0,40,2.68,20.0,CHEAPEST,4.400000095367432
+Tio Armenio,Brasileira,5.99,20,2.33,20.0,CHEAPEST,0.0
+Appetite Gourmet,Brasileira,5.99,45,3.81,20.0,CHEAPEST,0.0
+Paes e Delicias,Padaria,4.99,33,0.07,10.0,CHEAPEST,0.0
+Galeteria Vem Que Tem,Brasileira,0.0,40,1.25,20.0,CHEAPEST,0.0
+Açaí no Kilo,Açaí,0.0,50,2.33,0.0,CHEAPEST,0.0
+Hot Dog dos Amigos,Lanches,4.49,21,1.22,10.0,CHEAPEST,5.0
+Xsuplementos01,Saudável,0.0,120,1.18,25.0,CHEAPEST,0.0
+Pizza Hunger Kings,Pizza,0.0,35,0.98,24.0,CHEAPEST,0.0
+Sr.licor,Bebidas,4.99,19,2.0,10.0,CHEAPEST,0.0
+Texas Burguer,Lanches,5.0,50,2.51,17.0,CHEAPEST,0.0
+Pop Lanches,Salgados,4.0,50,1.9,0.0,CHEAPEST,0.0
+Vovo Zefinha,Doces & Bolos,7.0,50,0.57,10.0,CHEAPEST,5.0
+Tanajuras da Jucy,Brasileira,0.0,45,2.02,0.0,CHEAPEST,0.0
+O Rei da Quentinha,Brasileira,4.99,36,1.27,20.0,CHEAPEST,0.0
+Fornada Almoço,Brasileira,6.0,45,1.02,10.0,CHEAPEST,0.0
+Art & Capricho Salgados e Cia,Salgados,5.0,50,1.44,8.0,CHEAPEST,0.0
+Delicias da Belly Ateliê,Doces & Bolos,5.99,19,2.02,10.0,CHEAPEST,0.0
+Tajaçaíndo,Açaí,7.0,50,1.07,10.0,CHEAPEST,0.0
+Nota 10 Burguer,Brasileira,5.99,70,2.31,20.0,CHEAPEST,0.0
+Grand Dog,Lanches,4.0,60,0.68,10.0,CHEAPEST,3.0
+Lanchonete e Pastelaria do Irmão,Lanches,4.99,18,1.84,20.0,CHEAPEST,0.0
+Sabor da Mama,Brasileira,4.99,31,1.24,20.0,CHEAPEST,0.0
+Marmitas e Galetos,Brasileira,5.99,20,2.06,20.0,CHEAPEST,0.0
+Dona Zeza Marmitas e Galetos,Brasileira,6.99,30,3.01,20.0,CHEAPEST,0.0
+Petiscaria Caruaru,Brasileira,4.99,32,1.8,20.0,CHEAPEST,0.0
+Don Pepperoni,Brasileira,4.0,30,0.56,15.0,CHEAPEST,5.0
+Soparia da Mere,Brasileira,6.99,30,3.16,20.0,CHEAPEST,0.0
+Mylena Açaí,Açaí,4.99,32,1.65,10.0,CHEAPEST,0.0
+Paulo do Açaí Comedoria,Açaí,4.99,15,0.96,10.0,CHEAPEST,0.0
+Frango & Brasa,Brasileira,6.99,55,3.64,20.0,CHEAPEST,0.0
+Divina Burguer,Hambúrguer,0.0,40,0.95,20.0,CHEAPEST,0.0
+Churrascaria Carne na Brasa,Brasileira,4.99,37,1.63,20.0,CHEAPEST,0.0
+Boteco Rural,Brasileira,5.0,50,2.43,20.0,CHEAPEST,4.0
+Sabores do Sertão,Brasileira,4.99,36,1.64,20.0,CHEAPEST,0.0
+Restaurante e Sorveteria Bom Sabor,Sorvetes,5.99,36,2.12,20.0,CHEAPEST,0.0
+Restaurante Colher de Pau,Cozinha Rápida,4.99,27,0.41,10.0,CHEAPEST,0.0
+Eliana Cakees,Doces & Bolos,11.99,58,5.4,10.0,CHEAPEST,0.0
+Lanchonete Rosa de Saron,Lanches,8.99,60,4.29,20.0,CHEAPEST,0.0
+À Mineira,Brasileira,4.99,18,1.54,20.0,MODERATE,0.0
+Edson Churrascaria,Brasileira,4.0,30,0.16,12.0,CHEAPEST,0.0
+Kiara Tempero Nordestino ,Brasileira,6.0,50,2.35,10.0,CHEAPEST,0.0
+Lanches Caruaru,Lanches,5.49,23,2.03,20.0,CHEAPEST,0.0
+Yes! Salgados e Doces,Salgados,5.49,26,2.96,20.0,CHEAP,5.0
+Donna Pizza,Pizza,7.0,45,1.36,25.0,CHEAPEST,0.0
+Marmita Arretada,Marmita,5.0,40,1.22,15.0,CHEAPEST,0.0
+Dellice Cakes,Doces & Bolos,4.99,36,1.42,10.0,CHEAPEST,0.0
+Na Brasa Espetinho,Lanches,5.99,25,2.8,20.0,CHEAPEST,0.0
+Pastelaria Ebeneze,Pastel,6.99,55,3.69,20.0,CHEAPEST,0.0
+Pastel do flavio ,Brasileira,0.0,40,1.2,10.0,CHEAPEST,0.0
+Art in Burger,Lanches,7.49,24,3.8,20.0,CHEAPEST,0.0
+Cantinho do Acarajé,Lanches,5.0,40,1.82,10.0,CHEAPEST,0.0
+Quero Mais Açaí,Açaí,7.0,70,4.57,10.0,CHEAPEST,0.0
+Açaíduba,Açaí,6.99,26,3.73,10.0,CHEAPEST,5.0
+Restaurante Ponto de Encontro,Brasileira,4.99,36,1.31,20.0,CHEAPEST,0.0
+Super Burger,Hambúrguer,7.49,28,3.75,20.0,CHEAPEST,5.0
+Anne Doces e Salgados,Salgados,7.0,60,1.46,20.0,CHEAPEST,0.0
+Pastel da Hosana,Pastel,10.0,35,0.83,100.0,CHEAPEST,0.0
+Le Blé Creperia e Hamburgeria,Crepe,4.49,22,1.0,10.0,CHEAPEST,5.0
+O Rei das Pizzas,Pizza,8.0,70,4.82,17.0,CHEAPEST,5.0
+Vibe Açaí Caruaru,Açaí,4.49,20,1.38,10.0,CHEAPEST,3.0
+Tequila Petiscaria,Mexicana,8.99,60,4.42,20.0,CHEAPEST,0.0
+Especiaria do Chef,Brasileira,5.99,40,2.49,20.0,CHEAPEST,0.0
+Mark's Comida e Sobremesa,Brasileira,4.99,38,1.98,20.0,CHEAPEST,0.0
+Cia do Cachorro quente,Lanches,0.0,35,0.9,20.0,CHEAPEST,5.0
+Number One Chicken 🍗,Lanches,0.0,20,0.84,20.0,CHEAPEST,0.0
+Gibbs Burgers,Lanches,6.0,50,2.41,20.0,CHEAPEST,5.0
+Lanchonete Boca Cheia,Lanches,0.0,60,0.57,15.0,CHEAPEST,3.9675800800323486
+Arrumadinho Brasileirinho,Brasileira,3.0,60,1.04,0.0,CHEAPEST,3.955559968948364
+Delícias do Tio Bonny,Brasileira,0.0,60,1.72,15.0,CHEAPEST,3.938270092010498
+Tempero da Dinha,Brasileira,0.0,40,0.69,10.0,CHEAPEST,3.916670083999634
+La Fortezza Pizza Sabor Paulista,Pizza,0.0,30,0.84,25.0,CHEAPEST,3.861109972000122
+Casa da Sopa,Brasileira,4.49,11,1.36,10.0,CHEAPEST,3.8461499214172363
+X Parrilha,Lanches,0.0,60,0.57,10.0,CHEAPEST,3.7636399269104
+Almoço do Mc Manos ,Marmita,0.0,50,1.95,16.0,CHEAPEST,3.7419400215148926
+O Nelore Restaurante,Brasileira,6.0,50,1.49,0.0,MODERATE,3.7241399288177486
+Biruta Burguer,Hambúrguer,0.0,50,1.62,17.0,CHEAPEST,3.703819990158081
+Mega Burguer,Hambúrguer,4.99,6,1.78,20.0,CHEAPEST,3.666670083999634
+Tapiocaria Maria Bonita,Lanches,8.0,45,1.24,15.0,CHEAPEST,3.666670083999634
+La Barca Oficial,Açaí,0.0,20,1.71,15.0,CHEAPEST,3.5666699409484863
+Nóz Hamburgueria,Hambúrguer,6.0,50,1.31,0.0,CHEAPEST,4.900000095367432
+Mania de Pastel,Pastel,4.49,32,1.2,10.0,CHEAPEST,4.895199775695801
+- Netos Pizzaria,Pizza,0.0,55,0.87,14.9,MODERATE,4.86667013168335
+Santorini Culinaria Mediterranea,Mediterrânea,6.0,60,0.77,20.0,MODERATE,4.86667013168335
+Estrogonofe.,Francesa,5.99,60,1.19,23.8,CHEAP,4.857140064239502
+Kokórikrok's,Brasileira,6.0,40,1.49,15.0,CHEAPEST,4.850749969482422
+Decarne Hamburguer Artesanal,Carnes,3.99,16,0.5,10.0,CHEAP,4.833330154418945
+Tapiocaria Danado de Bom,Cozinha Rápida,6.5,60,1.87,10.0,CHEAPEST,4.829269886016847
+Yohei Sushi,Japonesa,6.0,70,2.33,0.0,MODERATE,4.826089859008789
+Milão Pizzaria,Pizza,0.0,60,1.52,14.0,CHEAPEST,4.824560165405273
+Galeteria Nova Euterpe,Brasileira,0.0,60,0.33,12.0,CHEAPEST,4.8222198486328125
+Pizzaria do Chefe,Argentina,10.0,60,5.41,20.0,CHEAP,4.8181800842285165
+Churrascaria Rodeio,Brasileira,3.99,14,0.53,10.0,CHEAPEST,4.808330059051514
+Dona Gulosa Comedoria,Brasileira,3.0,39,1.8,15.0,CHEAPEST,4.800000190734863
+Ogros Pizzaria,Pizza,0.0,40,2.0,25.0,CHEAPEST,4.800000190734863
+D´gustar,Lanches,5.0,45,2.61,15.0,CHEAPEST,4.800000190734863
+House 53 Hamburgueria,Lanches,6.0,50,1.44,10.0,CHEAPEST,4.800000190734863
+Restaurante do Koroka,Brasileira,0.0,50,0.32,10.0,CHEAPEST,4.785709857940674
+Mister Brownie,Doces & Bolos,4.99,30,1.4,2.0,CHEAPEST,4.785709857940674
+Caçarola do Visconde,Brasileira,5.0,55,0.96,15.0,CHEAP,4.396979808807373
+Açaí na Varanda,Açaí,4.49,19,1.04,10.0,CHEAPEST,4.380280017852783
+Agamenon Pizzaria,Pizza,6.0,40,1.39,10.0,MODERATE,4.378379821777344
+Yohei Poke,Japonesa,6.0,60,0.78,0.0,CHEAP,4.363639831542969
+Napolitana Boa Vista II,Pizza,0.0,60,2.52,20.0,MODERATE,4.362070083618163
+Primes Burguer e Comedoria,Hambúrguer,0.0,59,2.73,14.0,CHEAPEST,4.35483980178833
+Batata Paulista,Variada,6.0,35,1.02,10.0,CHEAPEST,4.333330154418944
+Donos Lanchonete e Açaiteria,Açaí,0.0,55,1.16,14.0,CHEAPEST,4.3181800842285165
+Prime Burguer Caruauru,Lanches,5.0,50,2.0,25.0,CHEAPEST,4.285709857940674
+Flora Brasil,Saudável,7.0,50,1.91,10.0,CHEAP,4.272729873657228
+Água na Boca Pizzaria,Lanches,2.0,40,1.35,19.9,CHEAPEST,4.272729873657228
+Tapiocaria el Shaday,Saudável,7.0,60,0.64,0.0,CHEAPEST,4.272729873657228
+Império das Quentinhas,Brasileira,0.0,40,2.44,20.0,CHEAPEST,4.266059875488281
+Pizzaria Rodrigues,Pizza,3.0,40,1.05,20.0,CHEAP,4.257070064544679
+Alicia Bistrô,Lanches,0.0,30,2.03,10.0,CHEAPEST,4.255320072174071
+Don Pepe Cone,Pizza,6.0,40,1.26,35.0,CHEAP,4.25
+Sabor do Agreste,Brasileira,6.49,23,2.52,10.0,CHEAPEST,4.25
+Naçaí Delivery,Açaí,7.0,60,3.47,15.0,CHEAPEST,4.241380214691162
+Katisuo,Japonesa,6.0,60,1.33,15.0,CHEAPEST,4.235290050506592
+Cantinho das marmitas ,Cozinha Rápida,5.0,50,2.64,0.0,CHEAPEST,0.0
+Cachorro Quente Petrópolis,Lanches,4.99,36,1.49,20.0,CHEAPEST,0.0
+Apettit Lanches,Lanches,4.99,33,0.33,20.0,CHEAPEST,0.0
+Delicia’s Lanches,Lanches,7.0,40,1.15,10.0,CHEAPEST,0.0
+Lanches do Rafa,Brasileira,5.0,50,2.45,5.0,CHEAPEST,0.0
+Tempero de Família,Brasileira,5.99,60,2.36,15.0,CHEAPEST,0.0
+Mundiça Lanches,Lanches,4.99,36,1.05,20.0,CHEAPEST,0.0
+Nosso Sabor,Marmita,4.49,22,1.57,10.0,CHEAPEST,5.0
+Restaurante Alvorada,Brasileira,0.0,45,1.14,10.0,CHEAPEST,0.0
+Talento Caseiro,Brasileira,5.99,20,2.13,20.0,CHEAPEST,0.0
+Churrascada House,Brasileira,0.0,50,2.56,14.0,CHEAPEST,0.0
+Point dos Chef's,Brasileira,5.99,40,2.18,20.0,CHEAPEST,0.0
+Nunes Lanches,Salgados,5.99,40,2.38,20.0,CHEAPEST,0.0
+Sabor da Casa,Açaí,6.99,45,3.13,10.0,CHEAPEST,0.0
+Heroes Delivery,Pastel,8.99,58,4.65,20.0,CHEAPEST,0.0
+Comida Delivery,Brasileira,5.0,40,2.17,10.0,CHEAPEST,0.0
+Belo Açaiteria,Açaí,4.49,20,1.26,10.0,CHEAPEST,0.0
+Sabor da Zane,Brasileira,4.99,38,1.77,20.0,CHEAPEST,0.0
+Cris Melo Salgateria,Lanches,5.99,50,2.75,20.0,CHEAPEST,0.0
+Oxente Açaíteria,Açaí,7.0,80,6.27,5.0,CHEAPEST,0.0
+Edu Massa Pastel,Pastel,4.99,36,1.11,20.0,CHEAPEST,0.0
+Pizzaria da Andréa,Pizza,4.99,15,0.92,20.0,CHEAPEST,0.0
+Pizzaria do Sheik,Pizza,4.99,35,1.85,20.0,CHEAPEST,0.0
+Point das Massas e Comedoria,Brasileira,5.99,25,2.64,20.0,CHEAPEST,0.0
+Mavs Bebidas e Delivery,Mercado,4.99,18,1.17,20.0,CHEAPEST,0.0
+Shalom Restaurante,Marmita,6.0,40,1.24,0.0,CHEAPEST,0.0
+The Brownie Factory,Doces & Bolos,5.99,20,2.33,10.0,CHEAPEST,0.0
+Prime Pizzaria,Pizza,0.0,40,1.27,20.0,CHEAPEST,0.0
+Rei da Massa,Pizza,4.99,31,0.68,20.0,CHEAPEST,0.0
+Pizzaria e Restaurante Agreste,Pizza,5.0,45,1.48,0.0,CHEAPEST,0.0
+Doguerita e Comedoria,Lanches,6.99,46,3.33,20.0,CHEAPEST,0.0
+Açaí Break,Açaí,10.0,30,2.33,15.0,CHEAPEST,0.0
+Grand Dog,Lanches,6.0,50,2.58,12.5,CHEAPEST,0.0
+Recifense Coxinhas,Lanches,4.99,38,1.74,20.0,CHEAPEST,0.0
+Luciene Tortas,Doces & Bolos,6.0,40,1.1,15.0,CHEAPEST,0.0
+Cantinho da Zany,Brasileira,5.0,40,1.98,0.0,CHEAPEST,0.0
+Tuthy’s,Lanches,7.0,50,1.63,10.0,CHEAPEST,0.0
+Delícias da Márcia,Marmita,6.99,55,3.83,10.0,CHEAPEST,0.0
+Delicias da Casa e Pizzaria,Pizza,6.0,40,1.49,12.0,CHEAPEST,0.0
+Pizzaria Aconchego,Pizza,7.0,60,3.29,5.0,CHEAPEST,0.0
+Big Bompreço Caruaru,Mercado,7.99,73,2.33,30.0,CHEAPEST,4.556819915771484
+Insano's Hamburgueria,Lanches,7.0,60,0.54,10.0,MODERATE,4.2616801261901855
+Salgatelle,Pizza,5.0,40,1.41,9.0,MODERATE,4.592060089111328
+Casa da Esfiha,Árabe,5.0,60,0.57,10.0,CHEAP,4.495369911193848
+Carrancão Hamburgueria,Lanches,3.0,50,1.02,10.0,CHEAPEST,4.398499965667725
+Sakai Sushi,Japonesa,0.0,70,0.92,15.0,CHEAP,4.304220199584962
+Varanda Restaurante e Pizzaria,Brasileira,4.0,40,2.48,20.0,EXPENSIVE,4.5373101234436035
+La Massa Pizzaria Delivery,Pizza,0.0,50,0.54,10.0,MODERATE,4.371260166168213
+Napolitana Pizzaria,Pizza,0.0,60,2.66,20.0,CHEAP,4.304150104522705
+Oxente o Cantin da Macaxeira,Brasileira,0.0,45,3.29,0.0,CHEAPEST,4.191709995269775
+Subway - Caruaru,Lanches,6.0,50,0.14,0.0,CHEAP,4.580440044403076
+Quero Esfiha,Lanches,0.0,40,1.74,15.0,CHEAPEST,4.750669956207275
+Domino's Pizza Maurício de Nassau,Pizza,0.0,40,1.08,20.0,MODERATE,4.77545976638794
+Pizzaria Shalom,Pizza,0.0,40,0.99,31.99,MODERATE,4.454150199890137
+Açaí Mandacaru,Açaí,0.0,50,1.36,12.0,CHEAPEST,4.625
+Açaí On,Açaí,6.99,28,3.66,10.0,CHEAPEST,5.0
+Avenida Açaí,Açaí,4.99,30,1.34,10.0,CHEAPEST,4.571430206298828
+Pizzaria Italian,Pizza,0.0,65,2.08,20.0,MODERATE,3.526319980621338
+Hot Dog Boa Esperança,Lanches,5.49,24,2.58,20.0,CHEAPEST,5.0
+Grill Grego,Lanches,5.49,24,2.73,10.0,CHEAPEST,0.0
+Maria Pizza Delivery,Pizza,0.0,60,1.29,23.98,CHEAPEST,4.599999904632568
+Em Casa Açaiteria,Açaí,6.0,50,2.13,12.0,CHEAPEST,5.0
+Sabor da Vida Cakes,Doces & Bolos,4.99,19,1.17,10.0,CHEAPEST,5.0
+Casa da Pizza & Pastelaria Delivery,Pizza,7.0,60,10.41,25.0,CHEAPEST,4.857140064239502
+Panificadora Boa Esperança,Brasileira,5.49,26,2.71,20.0,CHEAPEST,3.666670083999634
+Quiosque Brahma Chopp,Mercado,3.99,25,2.0,10.0,CHEAPEST,0.0
+Alex Comedoria Regional,Brasileira,5.0,40,1.07,14.0,MODERATE,4.375
+Chef Adalberto 15 de Novembro,Brasileira,4.99,40,0.3,10.0,CHEAP,4.482349872589111
+Dudulícia Gourmet,Sorvetes,5.0,20,1.75,13.5,CHEAPEST,4.875
+Companhia do Churrasco - Caruaru,Carnes,6.49,25,2.28,20.0,CHEAPEST,4.714290142059326
+Top Dudu Gourmet,Sorvetes,5.49,16,2.69,10.0,CHEAP,4.884620189666748
+Sr. Chico Hamburgueria,Lanches,5.0,40,1.2,15.0,CHEAPEST,0.0
+Pudim do Cabeça,Doces & Bolos,4.49,23,1.8,10.0,CHEAPEST,0.0
+F4 Burguer,Lanches,4.49,22,1.08,10.0,CHEAPEST,5.0
+The Best Burger Caruaru,Lanches,11.49,29,5.46,20.0,CHEAPEST,0.0
+Paulito's Burguer,Lanches,0.0,40,1.08,15.0,CHEAPEST,0.0
+Kactus Restaurante,Marmita,13.49,30,5.45,10.0,CHEAPEST,0.0
+Pizzaria Aguiar,Pizza,6.49,25,2.21,20.0,CHEAPEST,5.0
+DON PIZZA ,Brasileira,7.0,60,0.67,0.0,CHEAPEST,3.0
+Carne Louca Sanduiches,Lanches,0.0,40,1.49,12.0,CHEAPEST,5.0
+A Casa do Pastel,Pastel,8.99,30,4.62,20.0,CHEAPEST,0.0
+Passaport Hot Dog,Lanches,6.49,40,2.57,0.0,CHEAPEST,0.0
+Território Massas e Petiscaria,Brasileira,4.49,21,1.14,10.0,CHEAPEST,5.0
+Açai AM,Açaí,5.0,45,2.37,10.0,CHEAPEST,5.0
+Açaí do Chef,Açaí,2.0,40,1.99,0.0,CHEAPEST,0.0
+Pizzaria Bom Sabor,Pizza,8.49,28,4.05,20.0,CHEAPEST,5.0
+Espetinho Mix Delivery,Carnes,8.0,50,2.3,12.0,CHEAPEST,5.0
++Açai,Sorvetes,10.49,25,4.05,20.0,CHEAPEST,0.0
+O Burguês,Lanches,5.0,50,2.5,12.0,CHEAPEST,3.5714299678802486
+Marmitaria na Mesa,Brasileira,6.0,40,1.2,14.0,CHEAPEST,0.0
+Oliveira´s Bebidas,Bebidas,5.99,22,2.72,10.0,CHEAPEST,3.0
+Rood,Brasileira,7.0,60,1.62,0.0,MODERATE,4.849999904632568
+Shinzoo Culinária Japonesa,Japonesa,0.0,70,0.92,15.0,CHEAPEST,4.035709857940674
+Kibon Sorveteria - Caruaru,Sorvetes,4.49,10,1.84,20.0,MODERATE,4.918179988861084
+Pops Burg Steakhouse,Brasileira,6.0,45,1.21,0.0,CHEAP,4.707320213317871
+Esquina 021,Açaí,0.0,60,1.47,15.0,CHEAPEST,4.449999809265137
+Delifrio do Salgado,Açaí,4.0,60,1.15,12.0,CHEAPEST,4.053569793701172
+Famintoo's Hamburgueria,Lanches,0.0,20,0.56,25.0,CHEAPEST,4.1967201232910165
+Açai Point Delivery Loja BoaVista 2,Açaí,5.0,45,2.5,10.0,CHEAPEST,4.711860179901123
+Point do Caldeirão,Brasileira,6.0,40,1.1,15.0,CHEAP,3.791670083999634
+Loucos Por Coxinha - Difusora,Salgados,3.99,17,0.78,20.0,CHEAPEST,4.8181800842285165
+Mega Açaí,Açaí,0.0,60,4.05,15.0,CHEAPEST,4.900000095367432
+Dom Temakeria,Japonesa,0.0,50,1.46,13.0,CHEAPEST,4.147059917449951
+Império dos Lanches,Lanches,6.49,17,3.0,10.0,CHEAPEST,4.696969985961914
+Times Cafe,Brasileira,4.49,24,1.74,20.0,MODERATE,4.5
+Jerinana Cafeteria e Risoteria,Variada,4.49,35,1.68,10.0,MODERATE,4.8285698890686035
+Casa da Torta,Doces & Bolos,10.99,60,4.72,10.0,CHEAP,4.4651198387146
+Doce Mel Pudins,Doces & Bolos,5.49,15,2.82,10.0,CHEAPEST,4.945950031280519
+Sahory Sushi,Japonesa,5.0,60,0.92,0.0,MODERATE,3.5555601119995117
+La Casa do Pastel,Cozinha Rápida,0.0,40,0.97,0.0,CHEAPEST,3.5
+Sankê,Chinesa,5.0,50,0.68,15.0,CHEAPEST,3.5
+Kika Bolos,Doces & Bolos,6.99,27,3.01,10.0,CHEAPEST,3.5
+Fioruccio Pizzaria,Pizza,6.0,40,2.66,15.0,CHEAP,3.4375
+Rota97 Burger,Lanches,0.0,25,0.52,23.0,CHEAP,3.42307996749878
+Artesanal Burguer,Pizza,3.0,45,1.77,25.0,CHEAPEST,3.2941200733184814
+Takaji Express,Japonesa,5.0,45,3.65,10.0,CHEAPEST,3.111109972000122
+PIZZARIA FRANGO E CALABRESA,Pizza,6.0,60,3.01,15.0,CHEAPEST,3.0909099578857417
+Insano's Hotdog,Lanches,7.0,60,0.53,10.0,CHEAPEST,3.0555601119995117
+Leão Dourado Burguer e Hot Dog,Lanches,6.0,30,2.27,15.0,CHEAPEST,3.0
+Maka Sushi,Japonesa,6.0,60,1.6,0.0,EXPENSIVE,3.0
+Dakaza Culinaria Chinesa e Japonesa,Chinesa,7.0,50,0.92,0.0,MODERATE,3.0
+Açaí Burguer,Lanches,0.0,40,2.05,0.0,CHEAPEST,3.0
+Hamburgueria Leão Dourado,Lanches,4.99,7,1.98,10.0,CHEAPEST,2.5999999046325684
+Galeto Express,Variada,0.0,50,0.48,20.0,CHEAPEST,2.592590093612671
+Tapioca no Grau,Lanches,5.0,30,1.38,15.0,CHEAPEST,2.200000047683716
+Sarittas Delivery,Brasileira,5.0,60,2.86,15.0,CHEAPEST,1.0
+Comida caseira da bebel,Brasileira,3.0,40,1.78,13.0,CHEAPEST,1.0
+Girassol Comedoria,Marmita,0.0,60,1.39,10.0,CHEAPEST,4.780220031738281
+Carolina's Cakes,Doces & Bolos,5.99,24,2.61,10.0,CHEAPEST,4.777780055999756
+Sr.soares Hamburgueria,Lanches,0.0,60,2.54,10.0,CHEAPEST,4.7692298889160165
+Nofura Sushi,Japonesa,9.0,70,3.19,0.0,CHEAPEST,4.760000228881836
+Pizza Tomatella,Lanches,6.49,24,2.17,20.0,CHEAPEST,4.75
+Don Paladar Restaurante e Pizzaria,Brasileira,7.49,27,3.89,20.0,CHEAP,4.75
+Acarajé do Chef,Brasileira,6.49,23,2.31,10.0,CHEAPEST,4.75
+Pizzaria la Delícia,Brasileira,6.49,22,2.09,20.0,MODERATE,4.729730129241943
+Caseiro's Hamburgueria,Lanches,6.0,50,1.8,15.0,CHEAPEST,4.721950054168701
+Gran Burg's,Lanches,5.99,36,2.38,20.0,CHEAPEST,4.714290142059326
+Lira Burger - Smasheria,Lanches,5.0,27,0.81,10.0,MODERATE,4.710529804229736
+Oxe Macaxeiria,Brasileira,4.99,60,1.24,18.0,CHEAPEST,4.710140228271484
+Casa das Massas,Pizza,0.0,40,2.1,25.0,CHEAP,4.707320213317871
+John Steakhouse,Carnes,6.0,40,1.96,9.0,CHEAP,4.704080104827881
+Peixada do Dadal,Brasileira,8.49,24,2.68,20.0,MOST_EXPENSIVE,4.699999809265137
+Tempero da Clea,Brasileira,0.0,50,1.81,20.0,CHEAPEST,4.692309856414795
+Cabeça Hamburgueria Delivery,Lanches,0.0,45,2.87,15.0,CHEAPEST,4.692309856414795
+Bar e Restaurante da Charque,Brasileira,3.99,40,0.86,10.0,MODERATE,4.691999912261963
+Subzero Açaí,Açaí,4.99,20,0.85,10.0,CHEAPEST,4.684209823608398
+Pastelança,Pastel,4.0,50,1.91,28.0,CHEAPEST,4.21875
+Tempero da Baiana,Brasileira,8.0,60,2.84,10.0,CHEAP,4.199999809265137
+Império Hortifruti,Mercado,6.99,40,1.09,25.0,CHEAPEST,4.199999809265137
+Dino's Burguer e Açaí,Lanches,0.0,35,0.47,10.0,CHEAPEST,4.1904802322387695
+Tadashi Cozinha Japonesa e Chinesa,Japonesa,6.0,50,0.46,0.0,MODERATE,4.181819915771484
+Ozaka Express - Caruaru,Japonesa,3.0,50,0.87,15.0,MODERATE,4.168829917907715
+Play Burger Delivery,Hambúrguer,6.0,59,1.21,15.0,CHEAPEST,4.166669845581056
+Big Pancake's,Lanches,0.0,35,1.19,12.0,CHEAPEST,4.166669845581056
+Tempero da Lela,Brasileira,5.0,40,1.81,10.0,CHEAPEST,4.1578898429870605
+Hashtag Hamburguer,Lanches,0.0,40,3.28,13.0,CHEAPEST,4.153850078582764
+Burgadão Burger,Lanches,0.0,60,1.44,15.0,CHEAP,4.142859935760498
+Soparia do Geo,Brasileira,6.0,60,0.63,10.0,CHEAP,4.1351399421691895
+Insano's Almoço,Brasileira,7.0,50,0.53,0.0,CHEAP,4.129630088806152
+Big Dog,Lanches,5.0,35,0.66,0.0,CHEAP,4.123889923095703
+Central Pizza,Pizza,0.0,45,0.85,25.0,CHEAP,4.118110179901123
+Pizzaria Sabor Paulista,Pizza,6.0,30,1.32,0.0,MODERATE,4.111110210418701
+Ozaka Pizzaria,Pizza,0.0,40,0.57,15.0,CHEAPEST,4.111110210418701
+Dona Macaxeira,Brasileira,5.99,60,2.27,0.0,CHEAPEST,4.108839988708496
+Pizzaria Ki Delicia,Pizza,0.0,40,2.3,19.0,MODERATE,4.099999904632568
+O Rei da Massa,Pastel,5.99,45,2.89,20.0,CHEAPEST,0.0
+Pancake's,Brasileira,0.0,35,0.87,10.0,CHEAPEST,0.0
+Brigadeirosa Doces,Doces & Bolos,5.99,45,2.53,10.0,CHEAPEST,0.0
+Burguer Prime,Lanches,6.0,45,1.03,15.0,CHEAPEST,0.0
+Sweet Kah Comedoria,Lanches,6.99,43,3.23,20.0,CHEAPEST,0.0
+Acacia Restaurante,Brasileira,10.0,50,11.83,10.0,CHEAPEST,0.0
+Delícias.com,Açaí,5.49,21,2.57,10.0,CHEAPEST,0.0
+Agua de Coco Comedoria & Emporio,Brasileira,7.0,60,3.36,30.0,CHEAPEST,0.0
+Lama Burguer,Lanches,5.99,45,2.52,20.0,CHEAPEST,0.0
+Budega ''altas Horas'',Bebidas,0.0,20,2.52,10.0,CHEAPEST,0.0
+Gratin(recheada),Brasileira,5.99,60,2.45,20.0,CHEAPEST,0.0
+Pizzaria do Luigi,Pizza,6.0,50,1.54,25.0,CHEAPEST,0.0
+PIZZA MAIS DELÍCIA,Pizza,6.0,45,1.72,20.0,CHEAPEST,0.0
+Supremo Açaí e Pastelaria,Pastel,4.49,21,1.73,20.0,CHEAPEST,0.0
+Circuito do Hambúrguer Tárta Burguer,Lanches,6.0,60,0.41,10.0,CHEAPEST,0.0
+Tony Pizzaria e Pastelaria,Pizza,3.0,45,1.19,15.0,CHEAPEST,0.0
+Anydoceliê,Doces & Bolos,6.99,55,3.74,10.0,CHEAPEST,0.0
+Frigorifico Boi&cia,Carnes,0.0,50,2.67,25.0,CHEAPEST,0.0
+Temporal Burguer,Lanches,4.99,36,1.41,20.0,CHEAPEST,0.0
+Primefood,Lanches,6.0,40,2.19,12.0,CHEAPEST,0.0
+Le Jardin,Brasileira,8.0,50,2.02,40.0,CHEAPEST,0.0
+Cosa Rica,Doces & Bolos,4.99,30,0.55,10.0,CHEAPEST,0.0
+Bm Açai Delivery,Açaí,3.0,50,1.87,9.0,CHEAPEST,0.0
+Luiza Hortifrutti,Brasileira,5.99,45,2.9,20.0,CHEAPEST,0.0
+Mãe Fofa Comedoria,Brasileira,4.99,33,0.33,20.0,CHEAPEST,0.0
+Pedi Biis,Pizza,5.0,45,2.64,10.0,CHEAPEST,0.0
+Base Sweet Confeitaria,Padaria,5.99,34,2.24,10.0,CHEAPEST,0.0
+Imperio das Flores,Doces & Bolos,7.0,120,0.97,0.0,CHEAPEST,0.0
+Dogueria Hot Dog Gourmet,Lanches,6.99,35,3.85,20.0,CHEAPEST,0.0
+Nograu Burger,Lanches,7.0,50,5.46,20.0,CHEAPEST,5.0
+Rango Master,Lanches,4.99,38,1.9,20.0,CHEAPEST,0.0
+Sweet Confeitaria,Doces & Bolos,7.0,50,2.24,15.0,CHEAPEST,0.0
+Pandora Delivery,Marmita,10.0,30,1.25,15.0,CHEAPEST,0.0
+O Coalhao,Conveniência,4.99,33,0.43,10.0,CHEAPEST,0.0
+Chokoletti,Doces & Bolos,4.99,24,1.84,10.0,CHEAPEST,4.5
+Marc Burgers,Lanches,5.0,45,0.31,9.0,CHEAPEST,0.0
+Feijuca da Nane,Brasileira,9.0,80,6.27,15.0,CHEAPEST,0.0
+Mery Doces e Salgados,Salgados,3.99,25,1.16,10.0,CHEAPEST,4.599999904632568
+Comedoria Nordestina,Brasileira,0.0,40,1.3,12.0,CHEAPEST,3.9444398880004883
+Hermanos Bar,Brasileira,7.49,26,3.25,20.0,CHEAPEST,3.666670083999634
+Mamute Burguer,Lanches,6.0,20,1.11,9.0,CHEAP,4.6381402015686035
+O Esfiheiro,Lanches,6.5,50,0.5,6.0,CHEAP,4.509329795837402
+Amsterdam Burger & Beer,Lanches,6.99,29,1.13,9.0,MODERATE,4.647059917449951
+Tárta Burguer,Lanches,7.0,60,0.46,0.0,CHEAP,4.663370132446289
+Mcdonald's - Caruaru,Lanches,4.49,10,1.47,15.0,MODERATE,4.649899959564209
+Central Burguer,Lanches,0.0,40,1.12,13.0,CHEAPEST,4.185190200805663
+O Point Pizzaria,Pizza,0.0,50,1.05,25.0,MODERATE,4.050930023193359
+Burger King - Shopping Difusora Caruaru,Lanches,3.99,25,0.82,20.0,CHEAP,4.708539962768555
+Milk Shake Mix,Sorvetes,0.0,35,1.74,12.0,CHEAPEST,4.458059787750244
+Companhia do Pastel,Lanches,6.0,40,1.3,5.0,CHEAP,3.1213600635528564
+Açaideli,Açaí,0.0,60,1.46,15.0,CHEAP,4.377049922943115
+Sushi e Temaki Arretado,Japonesa,6.0,44,0.35,0.0,MODERATE,4.398600101470947
+Habib's - Caruaru,Lanches,6.5,48,1.0,0.0,CHEAP,3.9973299503326416
+Matutos Grill,Lanches,7.0,70,0.16,15.0,MODERATE,4.526319980621338
+Pinwei Japonesa,Japonesa,7.0,60,1.4,0.0,MODERATE,4.787499904632568
+House Açai,Açaí,5.99,79,2.08,15.0,CHEAPEST,4.780819892883301
+Pizzaria Fornada,Pizza,0.0,39,1.06,32.0,EXPENSIVE,4.706560134887695
+Medeiros Cozinha Delivery,Brasileira,0.0,60,2.92,15.0,CHEAPEST,4.454549789428711
+Doce Doce Amor,Doces & Bolos,5.0,60,1.4,0.0,CHEAPEST,4.900000095367432
+Vitrine Gourmet,Marmita,0.0,60,1.47,10.0,CHEAPEST,3.2727301120758057
+Ana Bolos e Delicias,Doces & Bolos,6.49,20,3.22,10.0,CHEAPEST,4.8285698890686035
+Sorveteria e Lanchonete Puro Sabor,Açaí,3.99,16,0.31,10.0,CHEAPEST,5.0
+Cake B Confeitaria,Doces & Bolos,6.0,45,1.17,20.0,CHEAP,4.176469802856444
+Mundo Verde Caruaru,Saudável,6.0,35,0.78,15.0,CHEAPEST,5.0
+Açaizeiro Caruaru,Açaí,0.0,50,0.93,25.0,CHEAPEST,3.0
+Império das Bebidas,Bebidas,4.0,20,1.33,10.0,CHEAPEST,5.0
+Açaiteria + Sabor,Açaí,3.99,21,0.57,10.0,CHEAPEST,4.833330154418945
+Só Mais Uma,Bebidas,6.0,30,1.93,25.0,CHEAPEST,5.0
+Açaíteria Tropical,Açaí,0.0,35,1.92,10.0,CHEAPEST,4.75
+Rayane Sweets,Doces & Bolos,5.0,60,3.19,10.0,CHEAPEST,5.0
+Asinha Crocante,Brasileira,4.49,19,1.25,10.0,CHEAPEST,5.0
+Império das Coxinhas e Lanches,Lanches,5.49,23,2.0,10.0,CHEAPEST,4.800000190734863
+Tokyo Massas,Congelados,4.49,23,1.44,10.0,CHEAPEST,5.0
+Poly Bolos e Salgados,Salgados,4.99,5,1.19,20.0,CHEAPEST,3.666670083999634
+O Rei do Yakissoba 2,Chinesa,6.0,60,1.39,0.0,MODERATE,5.0
+Pizza do Jau,Pizza,4.0,60,1.48,20.0,CHEAP,5.0
+Green Cozinha,Saudável,5.99,40,2.31,10.0,CHEAPEST,0.0
+Restaurante Sabores da Bahia,Marmita,5.49,41,2.82,10.0,CHEAPEST,0.0
+Lukas Burger,Lanches,0.0,40,1.86,15.0,CHEAPEST,5.0
+Sr. Açaí,Açaí,6.0,40,1.15,9.0,CHEAPEST,1.0
+Aquáticos Sushi,Japonesa,5.99,36,2.25,20.0,CHEAPEST,5.0
+Diforno Restaurante,Brasileira,4.99,19,0.05,20.0,CHEAPEST,4.5
+Pizzaria Barros,Pizza,7.0,60,2.58,9.0,CHEAPEST,5.0
+Suêyaki,Chinesa,4.99,23,1.33,20.0,CHEAPEST,0.0
+"Eita,feijuca!",Brasileira,5.99,37,2.03,20.0,CHEAPEST,0.0
+Mago Burguer,Lanches,0.0,50,1.79,15.0,CHEAPEST,4.0
+Pizzaria Mister Itália,Pizza,4.99,20,1.3,20.0,CHEAPEST,5.0
+Delicia da Casa,Doces & Bolos,4.0,40,1.49,6.0,CHEAPEST,0.0
+O Mestre Cuca Delivery,Brasileira,7.0,50,2.89,15.99,CHEAPEST,0.0
+Pizzaria & Batata Nassau,Pizza,4.99,20,0.84,20.0,CHEAPEST,5.0
+Mya Cacau,Doces & Bolos,6.99,52,3.53,10.0,CHEAPEST,5.0
+Disk Petisco,Carnes,4.99,33,0.22,20.0,CHEAPEST,0.0
+Burguer in House 202,Lanches,4.99,38,1.7,20.0,CHEAPEST,0.0
+Bombachiando Caruaru,Hambúrguer,4.99,36,1.25,20.0,CHEAPEST,0.0
+H Burguer artesanal,Brasileira,3.99,40,1.2,10.0,CHEAPEST,4.0
+Ana Doces,Doces & Bolos,4.99,38,1.53,10.0,CHEAPEST,0.0
+Gordin Açaí,Açaí,5.0,40,2.64,12.0,CHEAPEST,4.25
+Divino Forno,Pizza,7.0,49,0.79,0.0,MODERATE,5.0
+Vallentina Pizzaria,Lanches,0.0,50,0.5,15.0,CHEAPEST,4.038959980010986
+Donatário - Shopping Difusora,Frutos Do Mar,4.99,21,0.78,20.0,MODERATE,4.129030227661134
+Armazém Pastelaria,Pastel,7.0,40,1.13,8.0,CHEAP,4.444439888000488
+Maria Bonita Quitandaria,Conveniência,5.99,30,1.0,15.0,EXPENSIVE,4.8518500328063965
+Açaí 9¾,Açaí,4.49,17,1.41,10.0,CHEAPEST,4.723209857940674
+Pastel Mania,Pastel,3.99,17,1.0,10.0,CHEAP,4.482759952545166
+Comedoria Espaço da Rose,Brasileira,6.49,27,3.36,10.0,CHEAP,4.547170162200928
+Tea One Caruaru,Saudável,5.49,21,2.33,10.0,CHEAPEST,4.785709857940674
+Patroni - Caruaru,Pizza,5.99,27,2.25,20.0,CHEAP,4.340429782867432
+Divinu’s Burguer,Lanches,6.0,45,1.77,15.0,CHEAPEST,3.375
+Confeitaria Camilo,Doces & Bolos,6.0,40,1.46,0.0,CHEAP,4.357140064239502
+Travessa96,Mediterrânea,7.0,60,0.5,0.0,CHEAPEST,4.833330154418945
+Boteco Paulistano,Lanches,6.0,40,1.27,15.0,MODERATE,4.599999904632568
+Varanda Pizzaria,Pizza,5.0,40,2.29,10.0,MODERATE,3.9444398880004883
+Massagueirinha Caruaru,Frutos Do Mar,6.0,55,1.4,20.0,EXPENSIVE,3.769229888916016
+Empório & Bebidas do Mister,Bebidas,0.0,20,0.56,30.0,CHEAPEST,4.639999866485597
+Temaki Arretado e Culinária Chinesa,Japonesa,0.0,44,0.78,20.0,CHEAP,3.6842100620269775
+Donna Salada,Saudável,5.0,30,0.28,0.0,CHEAPEST,0.0
+Sabor do Matuto,Variada,7.0,60,0.37,0.0,CHEAP,0.0
+Churrascaria Asa Branca Central,Brasileira,7.0,60,0.86,0.0,MODERATE,0.0
+Bocão Hamburgueria,Lanches,5.0,45,0.84,10.0,CHEAP,0.0
+Bobó Shake,Sorvetes,6.0,60,2.6,0.0,CHEAPEST,0.0
+Pizzaria Cheff Dom Papito,Pizza,5.0,45,0.81,12.0,MODERATE,0.0
+Sabor Nosso Marmita Fit,Brasileira,5.0,70,1.05,10.0,CHEAPEST,0.0
+Pizzaria Hot,Pizza,0.0,50,0.68,20.0,CHEAP,0.0
+Novilho Churrascaria Premium,Variada,4.0,60,0.76,19.9,MODERATE,0.0
+Fios de Chocolate,Doces & Bolos,6.0,50,4.26,5.0,CHEAP,0.0
+Acaiburguer,Lanches,0.0,25,0.76,10.0,CHEAPEST,0.0
+Rock & Bowl,Pizza,7.0,60,2.33,15.0,CHEAPEST,0.0
+05 Gourmet Pastelaria & Burgueria,Brasileira,6.0,70,1.87,0.0,CHEAPEST,0.0
+Baião de Dois,Brasileira,6.0,60,0.5,13.0,CHEAPEST,0.0
+Recanto do Açaí,Sorvetes,5.0,60,1.32,15.0,CHEAPEST,0.0
+Delicious Donuts,Doces & Bolos,0.0,50,1.74,20.0,CHEAPEST,0.0
+Pastelicía Comedoria Gourmet,Lanches,5.0,60,4.11,25.0,CHEAP,0.0
+Uni Duni Tê Doces e Salgados,Doces & Bolos,5.0,61,1.99,0.0,CHEAPEST,0.0
+Gel Comedoria,Brasileira,6.0,50,0.66,20.0,CHEAPEST,0.0
+Mestre Marmitas,Brasileira,3.0,60,2.59,10.0,CHEAPEST,4.679999828338623
+Cachorro-quente e Hamburgueria do Negão,Lanches,3.99,11,0.59,10.0,CHEAPEST,4.677420139312744
+Coxinha no Pote,Lanches,3.99,15,0.9,10.0,CHEAPEST,4.676469802856445
+Marmitaria Cozinha & Sabor,Brasileira,6.49,48,3.21,20.0,MOST_EXPENSIVE,4.675680160522461
+Chale de Ouro Churrascaria,Brasileira,9.49,25,3.25,10.0,MODERATE,4.666669845581055
+Pizza na Brasa,Pizza,0.0,40,1.62,24.0,CHEAP,4.666669845581055
+Nyoko Temakeria & Sushi Bar,Japonesa,6.0,50,1.58,20.0,EXPENSIVE,4.656720161437988
+Dbrucehs Comedoria,Brasileira,0.0,60,0.9,15.0,CHEAPEST,4.636360168457031
+Mega Pizza,Pizza,0.0,40,1.39,24.0,CHEAP,4.63415002822876
+Açaí Mix Vassoural,Açaí,0.0,40,1.55,13.0,CHEAPEST,4.631999969482422
+Hall Pizzaria,Pizza,0.0,30,1.7,25.0,MODERATE,4.620369911193848
+Chef Adalberto Açaiteria (shop Caruaru),Lanches,5.49,22,2.25,20.0,CHEAPEST,4.611110210418701
+Familia Temaki Nipponshoku,Japonesa,6.49,24,2.75,20.0,MODERATE,4.611110210418701
+Nutrifit Caruaru,Saudável,4.49,17,1.47,10.0,CHEAP,4.591549873352051
+Maceio Marmitex,Brasileira,0.0,50,2.05,17.0,CHEAPEST,4.588240146636963
+Doce Ninho Confeitaria,Doces & Bolos,6.0,55,1.45,10.0,CHEAPEST,4.583330154418945
+Panificadora Cauã,Padaria,4.99,31,0.85,10.0,CHEAPEST,4.583330154418945
+Qui'dog Caruaru,Lanches,0.0,30,0.91,23.0,CHEAPEST,4.581399917602539
+Sabores Pizzaria,Pizza,0.0,60,1.02,17.0,CHEAP,4.5806498527526855
+Dom Pizzaria ,Pizza,0.0,60,0.67,29.0,CHEAPEST,4.099999904632568
+Pop Acai,Açaí,0.0,50,2.11,14.99,CHEAPEST,4.083330154418944
+Panela de Barro,Brasileira,0.0,50,0.52,0.0,CHEAPEST,4.0487799644470215
+Edo - Sushi Bar,Japonesa,6.0,60,1.9,19.9,MODERATE,4.046510219573976
+Matutu's Burguer,Lanches,0.0,45,1.01,11.0,CHEAPEST,4.041669845581056
+Sr Dogão Dogueria,Lanches,0.0,55,0.33,21.0,CHEAPEST,4.031909942626953
+Galeto Nordestino,Brasileira,3.0,50,0.98,9.9,CHEAPEST,4.0285701751708975
+Minha Quentinha,Brasileira,6.0,70,2.1,10.0,CHEAPEST,4.0144901275634775
+Bella Massa Pizzaria Boa Vista 2,Pizza,10.0,60,2.54,25.0,MODERATE,4.0
+Jomon Japa Sushi e Temakeria,Japonesa,0.0,40,0.49,35.0,MODERATE,4.0
+Maggi Pizzaria,Pizza,6.49,24,3.26,20.0,CHEAP,4.0
+Val da Rabada,Brasileira,0.0,45,2.24,0.0,CHEAP,4.0
+Pizzaria e Cuscuz Recheado - Suculento's,Lanches,0.0,38,1.8,20.0,MODERATE,4.0
+Pizzaria de Mainha,Pizza,4.0,45,1.07,10.0,CHEAPEST,4.0
+Bolinha,Brasileira,3.5,40,1.61,28.0,MODERATE,0.0
+Divino Sabor,Brasileira,3.0,70,3.08,0.0,CHEAPEST,0.0
+Light Box,Cozinha Rápida,0.0,45,1.16,20.0,CHEAP,0.0
+Açaí di Casa,Açaí,5.49,27,2.98,10.0,CHEAPEST,0.0
+Big Bode Delivery,Italiana,0.0,30,0.63,20.0,MODERATE,0.0
+Monster Burguer,Lanches,3.0,40,1.07,11.0,CHEAPEST,0.0
+Point das Bebidas,Bebidas,4.99,19,1.64,10.0,CHEAPEST,0.0
+Burguer Universitário,Lanches,0.0,30,1.15,20.0,CHEAPEST,0.0
+Encomendando Ideias,Doces & Bolos,4.99,35,0.93,10.0,CHEAPEST,0.0
+Ebenézer Conveniência,Bebidas,5.0,45,1.81,10.0,CHEAPEST,0.0
+Hortifruti Mundo Verde,Conveniência,5.0,60,1.12,30.0,CHEAPEST,0.0
+Império Burguer,Lanches,0.0,40,1.12,15.0,CHEAPEST,0.0
+Dog's,Lanches,6.99,50,3.36,20.0,CHEAPEST,0.0
+Gerim Doces,Doces & Bolos,4.99,16,0.38,10.0,CHEAPEST,0.0
+Just Tasty,Lanches,6.99,30,3.04,20.0,CHEAPEST,0.0
+Amazônia Mix,Açaí,5.0,45,1.09,10.0,CHEAPEST,0.0
+Lanchonete Eg,Brasileira,4.99,35,0.64,20.0,CHEAPEST,0.0
+O Rei da Batata Caruaru,Lanches,0.0,50,2.8,0.0,CHEAPEST,0.0
+Xodo Bistro,Brasileira,4.49,22,1.65,10.0,CHEAPEST,0.0
+Tapiocaria Premium,Variada,7.0,45,1.08,9.0,CHEAP,4.532110214233398
+Pinwei Chinesa,Chinesa,7.0,60,1.4,0.0,EXPENSIVE,4.604169845581055
+The Garden,Brasileira,0.0,60,1.6,25.0,CHEAP,3.726350069046022
+Eiji Cozinha Japonesa,Japonesa,6.0,49,0.43,0.0,EXPENSIVE,4.491529941558838
+Cais Restaurante Caruaru -,Brasileira,3.99,26,0.78,20.0,CHEAP,4.466670036315918
+Salatta,Saudável,7.0,60,0.45,15.0,MODERATE,4.625
+O Rei dos Pasteis,Lanches,5.0,60,0.22,15.0,CHEAP,4.602149963378906
+João Pizza,Pizza,7.0,60,0.83,10.0,MODERATE,4.506579875946045
+Caruaru Fast Food,Lanches,0.0,50,1.3,16.0,CHEAPEST,4.712709903717041
+Caruaru Salgados,Salgados,5.0,50,0.41,0.0,CHEAP,4.125
+Bonaparte - Shopping Difusora,Brasileira,4.99,22,0.78,20.0,MODERATE,4.236110210418701
+Delifrio Açaí,Açaí,3.99,14,0.6,10.0,CHEAPEST,4.739999771118164
+Via Boteco Restaurante,Brasileira,6.0,45,0.69,0.0,CHEAP,4.626669883728027
+Tay´s Burguer,Lanches,6.0,40,1.71,15.0,CHEAPEST,4.736259937286377
+Hamburgueria Le Pingue Caruaru,Lanches,6.0,50,1.42,0.0,CHEAP,4.386139869689941
+Hashtag Açaí,Açaí,6.0,50,1.07,9.5,CHEAP,4.622640132904053
+Boi de Barro Restaurante e Churrascaria,Brasileira,7.0,50,3.23,0.0,CHEAPEST,4.602560043334961
+Delicatto Café e Confeitaria,Brasileira,5.49,31,1.58,10.0,MODERATE,4.575950145721436
+Top Salgados,Salgados,10.99,40,1.29,0.0,CHEAPEST,3.799999952316284
+Sabor da Charque,Brasileira,4.49,21,1.25,10.0,CHEAPEST,5.0
+O Rei do Açaí,Açaí,5.0,50,2.12,15.0,CHEAPEST,4.0
+Açaí Mbf,Açaí,4.0,40,1.32,13.0,CHEAPEST,4.166669845581056
+Mais Ki Açaí,Açaí,8.49,26,3.53,10.0,CHEAPEST,0.0
+Açaiteria & Marmitaria Sinta-se em Casa,Marmita,4.99,20,0.4,10.0,CHEAPEST,5.0
+Império Boleria,Doces & Bolos,4.49,24,1.8,10.0,CHEAPEST,4.333330154418944
+Went Out - Caruaru Shopping,Mexicana,5.99,25,2.33,20.0,CHEAPEST,3.666670083999634
+Especial Sabores,Salgados,5.49,20,1.96,10.0,CHEAPEST,1.3333300352096558
+Negro Brownie,Doces & Bolos,4.49,21,1.12,10.0,CHEAPEST,5.0
+Casa do Queijo,Brasileira,3.99,22,0.92,20.0,CHEAPEST,0.0
+Master Burguer Delivery,Lanches,4.99,20,1.0,20.0,CHEAPEST,5.0
+Feijão de Molho,Brasileira,6.0,60,2.14,0.0,CHEAPEST,0.0
+Bruthus Burguer,Lanches,9.0,80,6.66,16.9,CHEAPEST,4.0
+King Lanches Delivery,Lanches,3.99,17,0.63,20.0,CHEAPEST,0.0
+Lela Bolos e Doces,Doces & Bolos,4.99,18,1.37,10.0,CHEAPEST,5.0
+Graça Bolos e Salgados ,Doces & Bolos,6.0,60,0.69,13.0,CHEAPEST,0.0
+Sushi Kitchen,Japonesa,4.0,55,0.97,20.0,CHEAPEST,4.333330154418944
+Bebidas da Vila,Bebidas,8.0,60,3.41,30.0,CHEAPEST,0.0
+Feito de Açúcar Confeitaria,Doces & Bolos,6.0,30,1.24,5.0,CHEAPEST,5.0
+Big Bread,Lanches,5.99,35,2.47,20.0,CHEAPEST,5.0
+Maggnu’s Kreperia & Pizzaria,Pizza,5.0,20,0.31,15.0,CHEAPEST,5.0
+Ap Bebidas,Bebidas,5.0,50,2.96,10.0,CHEAPEST,0.0
+"Mm SALGADOS $1,50 SORVETERIA",Salgados,5.99,21,2.06,20.0,CHEAPEST,4.5
+Gulosos Hamburgueria,Lanches,0.0,30,1.05,15.0,CHEAPEST,4.339620113372804
+Panificadora Princesa do Agreste,Padaria,3.99,11,0.28,10.0,CHEAPEST,4.814809799194336
+Açaíteria do Brown,Açaí,0.0,45,1.58,15.0,CHEAPEST,4.384620189666748
+Crepes Candy Cake,Crepe,7.0,60,1.46,25.0,MODERATE,5.0
+Lanchonete Encontro dos Amigos,Lanches,4.49,18,1.27,10.0,CHEAP,4.5625
+Monsters Acai,Açaí,6.0,50,2.97,13.0,CHEAPEST,4.380949974060059
+Dan&Dani dog burguer,Hambúrguer,0.0,60,0.55,10.0,CHEAPEST,4.7610602378845215
+Sorveteria Bom D'mel Ltda,Sorvetes,4.49,12,1.34,10.0,CHEAP,4.870969772338867
+O Rei do Yakissoba,Chinesa,6.0,50,1.54,0.0,MODERATE,4.538459777832031
+Alameda Caruaru,Pizza,0.0,50,0.9,20.0,MODERATE,3.5384600162506104
+Lasanha no Forno,Cozinha Rápida,6.99,55,2.31,10.0,CHEAPEST,4.424240112304688
+Casa da Pizza,Pizza,4.0,40,1.57,0.0,MODERATE,3.7419400215148926
+Frangolito Caruaru,Brasileira,5.99,25,2.33,20.0,CHEAPEST,5.0
+Cafeteria Paladar,Cafeteria,6.0,60,2.25,20.0,CHEAP,5.0
+Mestre Da Pizza,Pizza,0.0,65,2.36,20.0,MODERATE,2.742860078811645
+Asa Branca,Brasileira,6.49,27,2.17,20.0,MODERATE,4.235290050506592
+Via Regional Sushi,Japonesa,4.99,22,1.8,20.0,MODERATE,4.0
+OKilo Sorveteria e Açaiteria,Açaí,2.99,40,3.16,12.0,CHEAPEST,4.458330154418945
+Nawa Caruaru Acaiteria,Açaí,7.0,50,4.19,18.0,CHEAP,4.0
+D-mix Docinhos Personalizados,Doces & Bolos,3.0,40,1.43,10.0,CHEAPEST,0.0
+Mandacaru Restaurante -,Brasileira,5.0,45,7912.29,10.0,CHEAPEST,0.0
+O Rei da Asinha Crocante,Brasileira,6.0,50,1.27,10.0,CHEAPEST,0.0
+Maná Pizzaria e Comedoria,Marmita,5.0,60,2.12,10.0,CHEAPEST,0.0
+Yakisoba House Delivery,Chinesa,7.0,40,0.3,0.0,CHEAPEST,0.0
+Salife,Saudável,5.0,50,0.27,10.0,CHEAPEST,4.571430206298828
+Light Up - Fast Food Saudável,Saudável,0.0,43,1.21,20.0,CHEAPEST,4.571430206298828
+Garuda Veg,Vegetariana,4.49,22,1.38,10.0,CHEAPEST,4.571430206298828
+Carrilhos Burger,Lanches,0.0,30,1.19,12.0,CHEAPEST,4.5640997886657715
+Restaurante Charque do Paulista,Brasileira,6.0,60,0.82,10.0,CHEAP,4.555560111999512
+Bandin's Burger,Lanches,7.0,50,2.28,0.0,CHEAPEST,4.555560111999512
+Burguesia Lanches Saudáveis,Lanches,7.0,40,0.83,0.0,CHEAPEST,4.551720142364502
+Hamburmito,Lanches,7.0,60,2.43,10.0,CHEAPEST,0.0
+Mariju Doceria,Doces & Bolos,6.0,40,1.94,0.1,CHEAPEST,0.0
+La Cozina,Marmita,5.0,40,0.91,0.0,CHEAPEST,0.0
+Pizza Prime​,Pizza,6.0,60,2.71,15.0,CHEAPEST,4.0
+Exata Lanche,Salgados,8.0,50,1.1,0.0,CHEAPEST,0.0
+Point do Sabor,Brasileira,6.0,40,2.06,10.0,CHEAPEST,0.0
+The Rock Burger,Lanches,2.99,50,0.57,10.0,CHEAPEST,0.0
+D:forno Restaurante,Brasileira,0.0,50,0.05,18.0,CHEAPEST,0.0
+Varejão Caruaru,Mercado,7.49,48,1.67,30.0,CHEAP,3.8581600189208975
+Pizza Caseira,Pizza,0.0,55,0.96,20.0,CHEAP,4.329999923706056
+Pacífico Restaurante,Frutos Do Mar,6.49,36,2.32,20.0,MODERATE,4.664340019226074
+Jonathan’s Açaí,Açaí,0.0,45,1.67,10.0,CHEAPEST,3.4220199584960938
+Mão na Massa Pizzaria - Caruaru,Pizza,7.0,40,1.09,0.0,CHEAP,4.481480121612549
+Masdoska Sorvetes,Sorvetes,3.99,9,0.19,20.0,CHEAP,4.89231014251709
+Don Pastello Caruaru,Pastel,7.0,50,0.78,12.0,CHEAPEST,4.629030227661133
+Panificadora Divinopolis,Padaria,6.0,40,1.36,5.0,CHEAPEST,4.452380180358887
+Mata Fome Burguer,Lanches,0.0,35,0.84,13.0,CHEAPEST,3.825809955596924
+Heleno Churrascaria & Pizzaria,Variada,8.0,90,1.1,0.0,MODERATE,4.3913002014160165
+D'nápoles Pizzaria,Pizza,0.0,40,1.24,20.0,CHEAP,4.606060028076172
+@Açai,Açaí,2.0,59,2.08,10.0,CHEAPEST,4.965519905090332
+Pizza Hut - Caruaru,Pizza,8.0,30,1.58,15.0,EXPENSIVE,4.666669845581055
+Co.wok - Shopping Difusora,Chinesa,4.99,28,0.78,20.0,CHEAPEST,4.426829814910889
+Pizzaria Foguinho,Brasileira,0.0,39,1.06,25.0,CHEAP,4.590670108795166
+Faaca Burger - Caruaru,Lanches,5.99,37,2.33,20.0,CHEAPEST,4.260560035705566
+Pastelito's,Pastel,4.0,29,2.62,16.0,CHEAPEST,4.695650100708008
+O Big Burg Hamburgueria,Lanches,3.0,40,0.68,17.0,CHEAP,3.8780500888824463
+Petiscaria Esquenta,Marmita,3.99,40,1.41,15.0,CHEAPEST,5.0
+Gilliard's Comedoria,Lanches,5.99,22,2.59,10.0,CHEAPEST,4.333330154418944
+Brasileirinho Fast Food,Lanches,0.0,50,1.4,16.0,CHEAPEST,5.0
+Açai Turbo,Açaí,6.99,29,3.97,10.0,CHEAPEST,5.0
+Bombom Gelado,Sorvetes,5.0,40,1.4,15.0,CHEAPEST,5.0
+Primus Burguer,Lanches,4.99,60,3.21,12.0,CHEAPEST,5.0
+Pizzaria Cristal,Lanches,0.0,60,1.77,20.0,CHEAPEST,4.599999904632568
+Japa Espettus,Carnes,6.0,60,1.03,14.0,CHEAPEST,0.0
+Fabrica de Salgados Magalhães,Salgados,10.49,27,4.8,20.0,CHEAPEST,0.0
+Yakitemos,Chinesa,9.49,57,4.31,20.0,CHEAPEST,0.0
+BM BEBIDAS E CONVENIÊNCIA,Bebidas,5.0,40,3.78,0.0,CHEAP,5.0
+Usina Fit,Conveniência,0.0,40,1.46,15.0,CHEAPEST,0.0
+Sabor de Sonhos Confeitaria,Doces & Bolos,5.49,21,2.23,10.0,CHEAPEST,0.0
+Brasil Doce,Doces & Bolos,7.0,40,4.65,37.0,CHEAPEST,0.0
+Divino Doces e Salgados,Doces & Bolos,6.0,60,3.66,0.0,CHEAPEST,0.0
+Pot Cake,Doces & Bolos,8.0,40,2.38,30.0,CHEAPEST,0.0
+Ben & Jerry's - Mooca,Sorvetes,4.99,38,2035.82,20.0,CHEAPEST,0.0
+Paris Acai,Açaí,6.0,40,1.82,0.0,CHEAPEST,5.0
+Zero81 Bebidas,Bebidas,8.0,50,2.36,30.0,CHEAPEST,5.0
+Cheff Batata Caruaru,Brasileira,6.99,50,3.19,10.0,CHEAPEST,0.0
+La Pizza,Pizza,0.0,50,1.01,27.99,CHEAPEST,4.666669845581055
+Santhiago Bolos Ltda,Doces & Bolos,4.49,12,1.05,10.0,CHEAPEST,4.888889789581299
+Shell Select Liupneus,Mercado,9.0,22,2.01,0.0,CHEAPEST,5.0
+Faustina Lanches,Lanches,5.49,18,2.23,10.0,CHEAP,4.625
+Café.com,Cafeteria,0.0,40,1.73,25.0,CHEAP,4.615379810333252
+Varanda Sushi,Japonesa,7.0,50,2.29,10.0,CHEAPEST,2.0
+Duthy's Doceria e Salgateria,Lanches,5.99,60,1.73,20.0,CHEAPEST,3.714289903640747
+Parmeggio Difusora Caruaru,Brasileira,6.0,40,0.92,0.0,MODERATE,2.833329916000366
+Super Truck Caruaru,Lanches,6.49,27,2.8,10.0,CHEAP,4.931029796600342
+Café & Croissant,Cafeteria,7.0,45,1.77,10.0,CHEAP,4.166669845581056
+Holly Hamburgueria e Pizzaria,Pizza,0.0,60,2.05,20.0,CHEAP,4.0
+Portal das Massas,Salgados,4.49,23,1.78,10.0,CHEAPEST,4.833330154418945
+Churrascaria Bezerra,Carnes,5.0,40,0.68,15.0,MODERATE,3.666670083999634
+Coxa's,Lanches,6.0,30,0.46,0.0,CHEAPEST,4.571430206298828
+Só Massas Pastelaria,Pastel,5.49,22,2.98,10.0,CHEAPEST,4.478260040283203
+Açaí Crush,Açaí,0.0,50,1.38,19.9,CHEAPEST,3.625
+The Walking - Pizzas/burgers,Lanches,0.0,60,1.75,18.0,CHEAPEST,4.722219944000244
+Praçaí Caruaru,Açaí,4.49,20,1.99,10.0,CHEAPEST,4.666669845581055
+Açai Dicasa,Açaí,4.99,50,2.03,5.0,CHEAPEST,5.0
+Laranja Mecânica Food Truck,Hambúrguer,6.0,45,1.05,15.0,CHEAPEST,4.888889789581299
+Chickens Br - Frango Frito,Lanches,5.99,48,2.81,0.0,CHEAPEST,4.786099910736084
+Quero Doce,Doces & Bolos,6.0,60,2.85,0.0,CHEAP,5.0
+Cacau Show - Nossa Senhora das Dores,Doces & Bolos,9.0,19,0.05,0.0,CHEAPEST,5.0
+Dghust Grill Salada,Saudável,7.0,60,1.4,0.0,MODERATE,4.166669845581056
+Crocant’s Comedoria,Lanches,6.0,80,2.64,25.0,CHEAP,4.07843017578125
+Novilho Burguer,Brasileira,6.0,60,1.17,15.0,CHEAPEST,4.130949974060059
+Central do Açaí e Pastelaria,Açaí,0.0,35,0.69,15.0,CHEAPEST,4.629030227661133
+Chopp Brahma Express Caruaru,Bebidas,3.99,25,0.93,10.0,CHEAP,5.0
+Yakissoba Express Delivery,Chinesa,7.0,40,0.54,0.0,MODERATE,4.257140159606934
+Hashtag Açaí Express,Açaí,6.0,50,1.28,9.5,CHEAPEST,4.692309856414795
+Chiquinho Sorvetes - Caruaru 03,Sorvetes,4.99,13,0.17,20.0,CHEAPEST,4.800000190734863
+Açaideli Gourmet,Lanches,0.0,60,1.48,18.0,CHEAP,3.936170101165772
+Cerveja e Tudo - Caruaru,Bebidas,0.0,25,1.3,30.0,MODERATE,4.833330154418945
+Açaíteria Empório,Açaí,0.0,35,1.74,12.0,CHEAPEST,4.580460071563722
+Bob´s Shopping - Caruaru,Lanches,5.49,23,2.33,15.0,MODERATE,4.252530097961427
+Porto Madero,Carnes,6.49,35,2.29,20.0,MODERATE,4.610390186309815
+Delicia da Tapioca,Lanches,8.0,60,0.63,15.0,CHEAP,4.6875
+Best Açai,Açaí,8.0,29,2.23,10.0,CHEAPEST,5.0
+Rei do Mate - Caruaru,Cafeteria,5.99,24,2.25,20.0,CHEAPEST,5.0
+Chowko,Doces & Bolos,6.0,40,1.29,20.0,CHEAPEST,0.0
+Sorveteria Dudelicia,Brasileira,5.99,32,2.05,20.0,CHEAP,0.0
+Sabor da China,Chinesa,10.0,40,1.09,31.0,EXPENSIVE,4.827589988708496
+Açai Point Conveniência,Brasileira,3.99,30,0.67,10.0,CHEAPEST,4.684209823608398
+Benvenuti Gourmet,Variada,6.0,35,0.92,0.0,MODERATE,4.675000190734863
+Ki Galeto,Brasileira,5.49,36,2.16,20.0,CHEAP,4.674759864807129
+Agreste Supermercado,Mercado,7.49,44,1.72,30.0,CHEAPEST,4.627449989318848
+Heleno Comedoria Regional,Variada,8.0,40,1.43,20.0,CHEAP,4.480000019073486
+Feijoada da Fernanda,Brasileira,0.0,60,2.19,25.0,CHEAPEST,4.358019828796387
+Emi-joo,Chinesa,0.0,60,3.64,10.0,CHEAP,4.325300216674806
+Casa da Lasanha,Brasileira,3.99,16,0.36,10.0,CHEAPEST,4.3157901763916025
+Restaurante Tempero Certo,Marmita,3.99,19,0.27,10.0,CHEAPEST,4.178860187530519
+Restaurante Via Regional,Brasileira,6.0,50,1.81,20.0,EXPENSIVE,4.162789821624757
+Lanchonete Dogão,Lanches,4.49,23,1.2,10.0,CHEAPEST,4.153850078582764
+Amigos petiscaria,Cozinha Rápida,4.99,40,1.17,15.0,CHEAPEST,4.148940086364746
+Takaji,Japonesa,0.0,60,0.48,9.0,CHEAP,4.133530139923097
+Asala Lounge,Brasileira,7.0,60,1.58,10.0,MODERATE,4.571430206298828
+Lê' Café Sabor e Cultura,Brasileira,3.99,20,0.5,10.0,CHEAPEST,4.0
+Familia Chandller`s,Pizza,0.0,40,1.04,0.0,CHEAPEST,3.318180084228516
+Rei da Macaxeira,Cozinha Rápida,0.0,50,3.31,0.0,CHEAPEST,3.758620023727417
+Syd Pizza,Pizza,6.99,70,3.65,15.0,CHEAPEST,4.939390182495117
+Santhiago Bolos Indianopolis Ltda,Doces & Bolos,4.49,22,1.05,10.0,CHEAPEST,5.0
+Grão Espresso - Caruaru,Cafeteria,5.49,21,2.33,10.0,CHEAPEST,4.1578898429870605
+Homefood,Pizza,5.99,22,0.92,20.0,CHEAP,4.090909957885741
+Açaí Bom Gosto,Açaí,0.0,50,0.87,20.0,CHEAPEST,4.599999904632568
+Cachaçaria Delivery de Bebidas,Bebidas,0.0,25,4.51,30.0,MODERATE,5.0
+Pizza House Caruaru,Pizza,6.0,60,1.6,0.0,CHEAP,4.75
+Caruá Pudins ,Doces & Bolos,5.49,26,2.72,10.0,CHEAPEST,5.0
+Acai Summer,Açaí,4.5,29,2.22,10.0,CHEAPEST,4.339620113372804
+Sal e Brasa,Brasileira,5.99,23,2.33,20.0,MODERATE,5.0
+Ricardo's Burguer,Brasileira,5.49,26,2.46,10.0,CHEAPEST,5.0
+pizzaria & Hamburgueria Lourenço,Pizza,0.0,45,0.47,20.0,CHEAP,3.640000104904175
+Habino's,Pizza,6.0,50,2.18,24.0,CHEAPEST,3.5
+Soparia Marlene,Brasileira,5.49,23,2.19,10.0,CHEAPEST,3.0
+Lanches & Pizzas Comilão,Pizza,0.0,40,0.59,20.0,CHEAPEST,4.0270299911499015
+Açaí Online,Brasileira,6.0,50,2.66,15.0,CHEAPEST,4.594590187072754
+Duthy’s Doceria e Salgateria,Doces & Bolos,5.99,60,1.73,20.0,CHEAP,4.170730113983153
+Jobs Food Burger,Lanches,6.0,50,1.39,10.0,CHEAP,4.184619903564453
+Dghust Grill C,Carnes,7.0,60,1.4,0.0,CHEAPEST,4.555560111999512
+Açaí Keeper,Açaí,0.0,50,0.58,10.0,CHEAPEST,4.6413002014160165
+Taiti Frutos do Mar,Chinesa,7.0,20,0.25,11.0,MODERATE,4.526319980621338
+Via Regional Pizzaria,Pizza,6.0,45,1.8,20.0,MODERATE,4.058819770812988
+Bela Burguer,Lanches,0.0,40,1.56,13.0,CHEAPEST,4.1792497634887695
+Ebenézer Pizzaria e Comedoria,Pizza,6.0,45,2.66,10.0,MODERATE,2.9746799468994136
+O Esfiheiro Almoço,Brasileira,6.5,60,0.66,10.0,CHEAP,4.3972601890563965
+Sabor e Saúde Delivery,Saudável,7.49,30,3.57,10.0,CHEAP,4.464290142059326
+Hashtag Pizzaria,Pizza,0.0,60,1.97,20.0,CHEAP,4.245279788970946
+Ragazzo -  Caruaru,Lanches,6.5,48,0.84,0.0,CHEAP,2.857140064239502
+Insanos Pizzaria.,Pizza,0.0,35,0.93,0.0,CHEAPEST,3.839289903640747
+Soparia e Comedoria Q Sabor,Brasileira,4.49,16,1.68,10.0,CHEAPEST,4.644440174102783
+Quentinha Nova Geração,Brasileira,3.99,20,0.81,20.0,CHEAPEST,4.0
+Sopa Comedoria,Brasileira,0.0,55,1.47,5.0,CHEAPEST,3.926830053329468
+Al Comedoria,Brasileira,0.0,50,1.4,10.0,CHEAPEST,3.825000047683716
+Mineiro Delivery - Caruaru,Brasileira,7.0,60,0.35,20.0,CHEAP,4.6861300468444815
+Bella Massa Pizzaria São João da Escóci,Pizza,7.0,40,2.37,15.0,CHEAPEST,5.0
+Pizzaria Vitória,Pizza,5.0,80,1.57,15.0,CHEAP,5.0
+Fome's Burguers,Hambúrguer,3.0,40,2.32,10.0,CHEAPEST,4.882349967956543
+Capitão Cachaça,Bebidas,6.0,35,3.62,10.0,CHEAPEST,5.0
+Abestado Fast Food,Lanches,0.0,50,1.4,15.0,CHEAPEST,0.0
+Galleria Della Pizza,Pizza,0.0,65,2.6,15.0,CHEAPEST,4.043479919433594
+Esquinão do Açai,Açaí,5.49,29,2.53,10.0,CHEAPEST,0.0
+Q. Sabor Delivery,Brasileira,4.49,22,1.66,10.0,CHEAPEST,4.285709857940674
+Arthur Burger's,Lanches,4.99,22,1.91,10.0,CHEAPEST,4.25
+The Brownie Factory,Doces & Bolos,6.0,50,13.21,24.0,CHEAPEST,0.0
+Luciano Bode Assado,Brasileira,5.0,45,4.55,10.0,CHEAP,0.0
+Casa da Esfiha Almoço,Brasileira,5.0,60,10.61,12.0,CHEAPEST,3.858409881591797
+Supetão,Carnes,6.0,50,9.41,10.0,CHEAPEST,0.0
+Hut Dog Dogueria e Petiscaria,Lanches,5.0,45,11.79,15.0,CHEAPEST,0.0
+Lanche Online Caruaru,Brasileira,9.0,50,13.2,0.0,CHEAPEST,0.0

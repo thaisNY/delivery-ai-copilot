@@ -1,0 +1,44 @@
+[
+  {
+    "merchant_id": "m-sabor-agreste",
+    "question": "Por que minhas vendas caíram nas últimas duas semanas?",
+    "expected_tools": ["resumo_vendas"],
+    "expected_keywords": ["atras", "sexta", "sábado", "embalagem"]
+  },
+  {
+    "merchant_id": "m-sabor-agreste",
+    "question": "Em quais horários eu mais atraso as entregas?",
+    "expected_tools": ["atrasos"],
+    "expected_keywords": ["sexta", "sábado"]
+  },
+  {
+    "merchant_id": "m-sabor-agreste",
+    "question": "O que os clientes mais reclamam?",
+    "expected_tools": ["reclamacoes"],
+    "expected_keywords": ["embalagem", "vaz"]
+  },
+  {
+    "merchant_id": "m-sabor-agreste",
+    "question": "Qual prato está gerando mais avaliações ruins?",
+    "expected_tools": ["reclamacoes"],
+    "expected_keywords": ["combo família", "combo familia"]
+  },
+  {
+    "merchant_id": "m-pizzaria-alto-moura",
+    "question": "Meus pedidos diminuíram, o que aconteceu?",
+    "expected_tools": ["resumo_vendas"],
+    "expected_keywords": ["preço", "preco", "aument"]
+  },
+  {
+    "merchant_id": "m-pizzaria-alto-moura",
+    "question": "Como estou comparado com outras pizzarias da cidade?",
+    "expected_tools": ["comparar_mercado"],
+    "expected_keywords": ["caruaru", "média", "media"]
+  },
+  {
+    "merchant_id": "m-acai-feira",
+    "question": "Como estão minhas vendas?",
+    "expected_tools": ["resumo_vendas"],
+    "expected_keywords": ["pedidos", "faturamento"]
+  }
+]

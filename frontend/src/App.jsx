@@ -55,14 +55,14 @@ export default function App() {
 
   useEffect(() => {
     fetch("/api/health").then((r) => r.json()).then(setHealth).catch(() => {});
-    // A API pode demorar na primeira subida (pipeline de dados): tenta de novo por até ~2 min
+    // A API pode demorar na primeira subida (pipeline de dados): tenta de novo por até ~5 min
     let tries = 0;
     const load = () => fetch("/api/merchants")
       .then((r) => { if (!r.ok) throw new Error(); return r.json(); })
       .then((ms) => { setError(""); setMerchants(ms); setMid(ms[0]?.id ?? ""); })
       .catch(() => {
         setError("A API ainda está preparando os dados… tentando de novo.");
-        if (++tries < 24) setTimeout(load, 5000);
+        if (++tries < 60) setTimeout(load, 5000);
         else setError("Não consegui falar com a API. Veja os logs: docker compose logs api");
       });
     load();
@@ -77,7 +77,8 @@ export default function App() {
       .catch(() => setError("Erro ao carregar o painel. Veja os logs: docker compose logs api"));
   }, [mid]);
 
-  useEffect(() => endRef.current?.scrollIntoView({ behavior: "smooth" }), [msgs, loading]);
+  // chaves: scrollIntoView retorna uma Promise nos navegadores novos, e o React trataria isso como cleanup
+  useEffect(() => { endRef.current?.scrollIntoView({ behavior: "smooth" }); }, [msgs, loading]);
 
   async function send(text) {
     const q = (text ?? input).trim();

@@ -1,0 +1,79 @@
+name: CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  backend:
+    name: Backend (lint + testes com Postgres)
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: copiloto
+          POSTGRES_PASSWORD: copiloto
+          POSTGRES_DB: copiloto
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U copiloto -d copiloto -h 127.0.0.1"
+          --health-interval 3s --health-retries 20
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      DATABASE_URL: postgresql://copiloto:copiloto@localhost:5432/copiloto
+      MARKET_CSV: ${{ github.workspace }}/data/restaurantes_caruaru_fev2021.csv
+      DATA_END_DATE: "2026-11-15"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: backend/requirements-dev.txt
+      - run: pip install -r requirements-dev.txt
+      - name: Lint (ruff)
+        run: ruff check . --select E,F,W --ignore E501
+      - name: Testes (unitários + integração)
+        run: pytest -v
+
+  frontend:
+    name: Frontend (build)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install
+      - run: npm run build
+
+  docker:
+    name: Docker (build e publicação no GHCR)
+    needs: [backend, frontend]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build das imagens
+        run: docker compose build
+      - name: Publica imagens no GitHub Container Registry
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u "${{ github.actor }}" --password-stdin
+          owner=$(echo "${{ github.repository_owner }}" | tr '[:upper:]' '[:lower:]')
+          project=$(basename "$GITHUB_WORKSPACE" | tr '[:upper:]' '[:lower:]')
+          for svc in api web; do
+            dest=ghcr.io/$owner/delivery-ai-copilot-$svc
+            docker tag "$project-$svc" "$dest:latest"
+            docker tag "$project-$svc" "$dest:${GITHUB_SHA::7}"
+            docker push --all-tags "$dest"
+          done
